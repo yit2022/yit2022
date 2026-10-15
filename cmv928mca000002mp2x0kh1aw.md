@@ -10,7 +10,7 @@ tags: erp, quality-control, manufacturing, kenya, food-safety
 
 ---
 
-*This article was originally published at [https://factoraerp.com/en/blog/supplier-intake-checklist-food-manufacturers-kenya](https://factoraerp.com/en/blog/supplier-intake-checklist-food-manufacturers-kenya). Canonical URL: https://factoraerp.com/en/blog/supplier-intake-checklist-food-manufacturers-kenya*
+*This article was originally published at* [*https://factoraerp.com/en/blog/supplier-intake-checklist-food-manufacturers-kenya*](https://factoraerp.com/en/blog/supplier-intake-checklist-food-manufacturers-kenya)*. Canonical URL: https://factoraerp.com/en/blog/supplier-intake-checklist-food-manufacturers-kenya*
 
 *By Isaac Muthui, CEO, Tamalaki Business Network Ltd*
 
@@ -34,86 +34,113 @@ Milk intake has its own specialised checks (temperature, platform tests, adulter
 
 Run these checks for each delivery before you put materials away. Keep answers on paper or in a system so you can show them later.
 
-### 1. Is the supplier approved, and does identity match the purchase order?
+### 1\. Is the supplier approved, and does identity match the purchase order?
 
 Only receive from suppliers on your approved list (or under a documented exception). Confirm:
 
-- The supplier name on the delivery note matches the purchase order and the vehicle paperwork.
-- The person delivering can identify the company and the order.
-- You are not accepting a substitute supplier "just this once" without a named decision.
+*   The supplier name on the delivery note matches the purchase order and the vehicle paperwork.
+    
+*   The person delivering can identify the company and the order.
+    
+*   You are not accepting a substitute supplier "just this once" without a named decision.
+    
 
 If identity does not match, stop. Do not unload until procurement or QA clears it.
 
-### 2. Do the delivery note and invoice documents match the load?
+### 2\. Do the delivery note and invoice documents match the load?
 
 Documents and physical goods must tell the same story. Check:
 
-- Purchase order number, product descriptions and pack sizes.
-- Quantities stated versus what you can see on the vehicle.
-- Any certificates or packing lists attached to this load, not a previous one.
+*   Purchase order number, product descriptions and pack sizes.
+    
+*   Quantities stated versus what you can see on the vehicle.
+    
+*   Any certificates or packing lists attached to this load, not a previous one.
+    
 
 Incomplete or mismatched paperwork is a hold, not a reason to unload "and fix it later."
 
-### 3. Are the vehicle and packaging in acceptable condition?
+### 3\. Are the vehicle and packaging in acceptable condition?
 
 Before bags or drums leave the truck, look at the environment they travelled in:
 
-- Cleanliness of the load area; no strong chemical odours that do not belong with food materials.
-- Intact seals where you require them.
-- No torn bags, leaking drums, crushed cartons or obvious pest evidence.
-- No mixing of incompatible materials that could contaminate your product.
+*   Cleanliness of the load area; no strong chemical odours that do not belong with food materials.
+    
+*   Intact seals where you require them.
+    
+*   No torn bags, leaking drums, crushed cartons or obvious pest evidence.
+    
+*   No mixing of incompatible materials that could contaminate your product.
+    
 
 Reject or quarantine anything whose packaging or transport condition is not acceptable under your rules.
 
-### 4. Is the product identity correct: item, grade and pack size?
+### 4\. Is the product identity correct: item, grade and pack size?
 
 Confirm you received what you ordered:
 
-- Correct product name and grade (for example flour grade, oil type, sugar grade).
-- Correct pack size and packaging type.
-- Labels readable and consistent across the load.
+*   Correct product name and grade (for example flour grade, oil type, sugar grade).
+    
+*   Correct pack size and packaging type.
+    
+*   Labels readable and consistent across the load.
+    
 
 A wrong grade that looks similar to the right one is still the wrong material.
 
-### 5. Do quantity and unit of measure match the documents?
+### 5\. Do quantity and unit of measure match the documents?
 
 Count or weigh according to how you buy the item:
 
-- Bags, drums, cartons or kilograms as stated on the PO and delivery note.
-- Note short deliveries and over-deliveries before you sign.
-- Flag unit mismatches (for example ordered in kilograms, delivered in unmarked containers).
+*   Bags, drums, cartons or kilograms as stated on the PO and delivery note.
+    
+*   Note short deliveries and over-deliveries before you sign.
+    
+*   Flag unit mismatches (for example ordered in kilograms, delivered in unmarked containers).
+    
 
 Quantity errors at intake become stock and cost errors for the rest of the month.
 
-### 6. Are batch/lot and expiry or manufacture dates present and within your rules?
+### 6\. Are batch/lot and expiry or manufacture dates present and within your rules?
 
 Every accepted lot should be identifiable going forward:
 
-- Batch or lot number present and recorded.
-- Manufacture date and/or expiry (or best-before) present where your material requires it.
-- Remaining shelf life within the minimum you set for that item.
-- No mixed lots hidden in one "accepted" pile without recording them separately.
+*   Batch or lot number present and recorded.
+    
+*   Manufacture date and/or expiry (or best-before) present where your material requires it.
+    
+*   Remaining shelf life within the minimum you set for that item.
+    
+*   No mixed lots hidden in one "accepted" pile without recording them separately.
+    
 
 Without lot identity at intake, later [mock recalls](https://factoraerp.com/en/blog/how-to-run-a-mock-recall-food-traceability-kenya) and expiry control become guesswork.
 
-### 7. Have you run the spec / COA / sensory or simple QC checks for that material?
+### 7\. Have you run the spec / COA / sensory or simple QC checks for that material?
 
 Not every material needs a full lab panel at the gate. Every material needs the checks *you* defined for it. Typical examples:
 
-- Certificate of analysis (COA) present and reviewed against your specification where you require it.
-- Sensory checks: appearance, odour, obvious foreign matter.
-- Simple on-site tests your QA plan lists for that material (for example moisture for some dry goods).
+*   Certificate of analysis (COA) present and reviewed against your specification where you require it.
+    
+*   Sensory checks: appearance, odour, obvious foreign matter.
+    
+*   Simple on-site tests your QA plan lists for that material (for example moisture for some dry goods).
+    
 
 Decide clearly: **accept**, **hold pending further tests**, or **reject**. A vague "looks fine" with no record is not a decision.
 
-### 8. Is the goods received note recorded before stock is put away, and are rejects quarantined?
+### 8\. Is the goods received note recorded before stock is put away, and are rejects quarantined?
 
 The intake is not finished when the truck leaves. Finish the record:
 
-- Raise a goods received note (GRN) that ties PO, supplier, quantities, lots and the accept/hold/reject decision.
-- Put accepted stock into the right location under its lot identity.
-- Move rejected or held goods to a marked quarantine area, physically separate from good stock.
-- Do not put disputed material into production bins "temporarily."
+*   Raise a goods received note (GRN) that ties PO, supplier, quantities, lots and the accept/hold/reject decision.
+    
+*   Put accepted stock into the right location under its lot identity.
+    
+*   Move rejected or held goods to a marked quarantine area, physically separate from good stock.
+    
+*   Do not put disputed material into production bins "temporarily."
+    
 
 This is the receiving-side twin of a [QA hold before a batch leaves the warehouse](https://factoraerp.com/en/blog/qa-hold-checklist-before-batch-leaves-warehouse-kenya): status must match physical location.
 
@@ -121,11 +148,16 @@ This is the receiving-side twin of a [QA hold before a batch leaves the warehous
 
 A checklist fails on the busy day unless the factory makes skipping it hard:
 
-- **Default to hold until checks are done.** Nothing enters free stock or production until the eight points are answered.
-- **Name the receivers.** Agree who can accept goods (for example store lead and one deputy). Others cannot sign a GRN for production materials.
-- **Never mix rejected with good stock.** Quarantine must be a place and a status, not a note in someone's pocket.
-- **Review rejects weekly.** Look at why loads failed (wrong grade, damaged packs, missing dates, failed QC) and feed that into supplier performance and purchasing.
-- **Align intake with tax and invoice reality.** For Kenyan manufacturers, supplier documents also feed [eTIMS](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya) and deductible expenses. A clean GRN helps operations and finance tell the same story.
+*   **Default to hold until checks are done.** Nothing enters free stock or production until the eight points are answered.
+    
+*   **Name the receivers.** Agree who can accept goods (for example store lead and one deputy). Others cannot sign a GRN for production materials.
+    
+*   **Never mix rejected with good stock.** Quarantine must be a place and a status, not a note in someone's pocket.
+    
+*   **Review rejects weekly.** Look at why loads failed (wrong grade, damaged packs, missing dates, failed QC) and feed that into supplier performance and purchasing.
+    
+*   **Align intake with tax and invoice reality.** For Kenyan manufacturers, supplier documents also feed [eTIMS](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya) and deductible expenses. A clean GRN helps operations and finance tell the same story.
+    
 
 **Illustration (not real customer data):** imagine a mill that accepts a late flour premix delivery because production is waiting. The bags look right, so they go straight to the blending area. Later someone notices the lot number on half the bags does not match the delivery note, and the manufacture date on two bags is older than the mill's minimum remaining shelf life. With a gate check, those bags would have been held or rejected before they touched the blender. Without one, the whole blend inherits the uncertainty—and [FEFO / expiry tracking](https://factoraerp.com/en/blog/reduce-expiry-spoilage-losses-fefo-batch-expiry-tracking) cannot fix a lot you never recorded correctly at intake.
 
@@ -156,6 +188,6 @@ Milk often needs temperature and platform tests before every acceptance. This ei
 **Can a small factory do this without software?**  
 Yes. A printed checklist, a GRN book, a marked quarantine area and named receivers cover the basics. Software helps when volumes grow and paper records drift from what is actually in the store.
 
----
+* * *
 
 *Isaac Muthui, CEO, Tamalaki Business Network Ltd*
