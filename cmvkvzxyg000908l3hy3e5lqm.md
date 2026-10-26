@@ -1,5 +1,5 @@
 ---
-title: "A Medical Certificate Is Not Proof Your Food Handlers Are Fit: Why Kenyan Food Factories Must Check Staff Health Every Shift"
+title: "A Medical Certificate Is Not Proof Your Food Handlers Are Fit: Why Food Factories Must Check Staff Health Every Shift"
 datePublished: 2026-10-23T11:28:51.120Z
 cuid: cmvkvzxyg000908l3hy3e5lqm
 slug: personal-hygiene-staff-health-checklist-food-factories-kenya
