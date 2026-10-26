@@ -1,5 +1,5 @@
 ---
-title: "Your Metal Detector Is Not a Foreign Body Programme: Why Kenyan Food Factories Must Prevent, Not Just Detect"
+title: "Your Metal Detector Is Not a Foreign Body Programme: Why Food Factories Must Prevent, Not Just Detect"
 datePublished: 2026-10-23T04:47:22.493Z
 cuid: cmvkhnn1x000a09l8e3108e0t
 slug: foreign-body-control-checklist-food-factories-kenya
@@ -8,7 +8,7 @@ tags: erp, small-business, manufacturing, kenya, food-safety
 
 ---
 
-*By Isaac Muthui, CEO, Tamalaki Business Network Ltd. Originally published at [factoraerp.com](https://factoraerp.com/en/blog/foreign-body-control-checklist-food-factories-kenya).*
+*By Isaac Muthui, CEO, Tamalaki Business Network Ltd. Originally published at* [*factoraerp.com*](https://factoraerp.com/en/blog/foreign-body-control-checklist-food-factories-kenya)*.*
 
 A customer opens a packet and finds something that should not be there: a sliver of glass, a metal shard, a piece of blue plastic, a bristle, a plaster. From that moment, nothing else about your product matters to them. A taste problem loses you a sale. A hard object in food can break a tooth or cause a choking injury, and it ends up on social media within the hour.
 
@@ -40,48 +40,48 @@ The harder problem inside the factory is that most foreign bodies are not metal,
 
 ## The 8-step foreign body control checklist
 
-### 1. Map where foreign bodies can come from
+### 1\. Map where foreign bodies can come from
 
 - Walk the process from intake to dispatch and list, at each step, the physical hazards that could get into the product and where they would come from: stones and metal in raw grain, bone in meat, wire and nails from sacks and pallets, metal from worn blades and screens, glass from lights and jars, hard plastic from scoops, buckets and machine guards, wood from pallets, flaking paint, string, bristles, personal items.
 - Be specific, as Codex asks: "metal fragments from the cutter blade", not "physical hazards".
 - Rate each one by how likely it is and how much harm it could cause, and decide where it will be prevented, removed or detected. That map feeds your HACCP plan.
 
-### 2. Control what comes in
+### 2\. Control what comes in
 
 - Set physical-quality limits in your raw material and packaging specifications: stones, metal, glass, extraneous matter.
 - Inspect at intake. EAS 39 names "inspection of raw materials" first among foreign matter precautions. Our [supplier intake checklist](https://factoraerp.com/en/blog/supplier-intake-checklist-food-manufacturers-kenya) covers how to sample, record and reject.
 - Remove outer packaging, strings and staples before materials enter production, and debox in a separate area where you can.
 - Use removal steps that suit the material: cleaners, destoners, sieves and magnets for grain and powders, filters and strainers for liquids.
 
-### 3. Run a glass and brittle plastics register
+### 3\. Run a glass and brittle plastics register
 
 - List every item of glass, brittle plastic and ceramic in or above production and storage areas: light fittings, windows, gauges, sight glasses, clock faces, display screens, inspection hatches, lab equipment.
 - Replace glass with shatterproof material where breakage could contaminate food (EAS 39, 12.11.5). Make sure lights over exposed food are the safety type or covered, as regulation 9(4) of the Food Hygiene Regulations requires.
 - Keep glass containers out of production except finished-product packaging (EAS 39, 4.4.4).
 - Inspect each item on the register on a fixed schedule, record its condition, and log any damage. EAS 39 expects records of glass equipment inspections.
 
-### 4. Write and practise a breakage procedure
+### 4\. Write and practise a breakage procedure
 
 - Decide in advance what happens when glass or hard plastic breaks: stop the line, keep people and product in place, call the designated person, and cordon off the area.
 - Hold all exposed product, ingredients and packaging within a defined radius, and anything that may have been affected since the last good check. EAS 39 (4.4.6) puts responsibility for identifying and destroying possibly contaminated food on the designated person.
 - Clean up with dedicated, identifiable tools that never go back into general use, check footwear, and inspect and clean the area before production restarts.
 - Account for the pieces: try to reassemble the broken item to see whether anything is missing. Record what broke, where, when, what was held and who released the line.
 
-### 5. Look after the equipment, sieves and magnets
+### 5\. Look after the equipment, sieves and magnets
 
 - Include blades, screens, mesh belts, scrapers and guards in [preventive maintenance](https://factoraerp.com/en/blog/preventive-maintenance-basics-food-agro-factories-kenya) and inspect them for wear, cracks and missing pieces.
 - Check sieves and filters for tears at the start and end of each shift, and record the result (EAS 39, 13.3.8). Clean and inspect magnets on a schedule and record what they collect: a sudden rise in metal on a magnet is an early warning of a wearing part.
 - After any maintenance or repair, account for all tools and parts, remove swarf and debris, and inspect before handover. This fits naturally into [line clearance](https://factoraerp.com/en/blog/line-clearance-checklist-food-factories-kenya).
 - Use food-grade lubricants and keep fasteners, wire and cable ties out of open-product zones where you can.
 
-### 6. Set people rules
+### 6\. Set people rules
 
 - No jewellery except what your policy allows (EAS 39 permits plain wedding rings and sleeper earrings or studs; the Food Hygiene Regulations require food handlers to remove all jewellery), no watches, pins, false nails or false eyelashes.
 - Coloured, detectable plasters, issued and logged by a supervisor. Hairnets and beard covers. Pens and tools that are metal-detectable or tethered where practical.
 - No loose items in top pockets. Keep personal items in lockers outside production.
 - Train new starters on why this matters, and check it at every entry to the floor.
 
-### 7. Detect, reject and check the detector
+### 7\. Detect, reject and check the detector
 
 - Install metal detection (or X-ray where the product or packaging needs it) on consumer lines, positioned to inspect the finished pack where technically possible (EAS 39, 4.4.7).
 - Set sensitivity using certified ferrous, non-ferrous and stainless steel test pieces. EAS 39 gives 2 mm ferrous and 2.5 mm non-ferrous spheres as the target unless the product makes that impossible.
@@ -89,7 +89,7 @@ The harder problem inside the factory is that most foreign bodies are not metal,
 - Reject into a locked container that only QA can open (EAS 39, 4.6.5). Every reject is investigated, not tipped back onto the line.
 - Treat the detector like any other measuring instrument and keep it in your [calibration](https://factoraerp.com/en/blog/calibration-checklist-food-factories-kenya) programme.
 
-### 8. When something is found, act on the product, then find the source
+### 8\. When something is found, act on the product, then find the source
 
 - If a detector check fails, everything packed since the last good check goes on [QA hold](https://factoraerp.com/en/blog/qa-hold-checklist-before-batch-leaves-warehouse-kenya) and is rechecked on a working detector. The same rule applies to a torn sieve or a missing piece of a blade or scoop.
 - Examine every reject and every found object. Identify the material and compare it with your hazard map. A piece of blue plastic is easier to trace when you know where blue plastic is used in the plant.
@@ -114,26 +114,26 @@ FactoraERP tracks production batches and lots, stock status including QA holds, 
 
 ## Free download: eTIMS readiness checklist for factories
 
-Quality records, stock records and invoices increasingly have to tell the same story for Kenyan manufacturers, and product destroyed after a foreign body incident touches all three. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at [https://isaacmuthui.substack.com](https://isaacmuthui.substack.com). You will get practical operations notes for food and agro manufacturers. No spam; unsubscribe anytime. For background, see our guide to [eTIMS for food and agro manufacturers](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya).
+Quality records, stock records and invoices increasingly have to tell the same story for Kenyan manufacturers, and product destroyed after a foreign body incident touches all three. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at <https://isaacmuthui.substack.com>. You will get practical operations notes for food and agro manufacturers. No spam; unsubscribe anytime. For background, see our guide to [eTIMS for food and agro manufacturers](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya).
 
 ## FAQ
 
-**What should a foreign body control checklist for a food factory include?**  
+**What should a foreign body control checklist for a food factory include?**\
 A map of where physical hazards can enter the process, controls on incoming materials, a glass and brittle plastics register with scheduled inspections, a breakage procedure, maintenance and inspection of blades, sieves and magnets, people rules on jewellery and plasters, metal detection or X-ray with recorded checks and a locked reject, and a procedure for holding product and investigating when something is found.
 
-**What counts as a foreign body in food?**  
+**What counts as a foreign body in food?**\
 Any material that should not be in the product. Codex highlights hard or sharp objects that could cause injury or choking, such as jewellery, glass, metal shards, bone, plastic and wood fragments. Others include stones, string, paper, bristles, plasters and insects.
 
-**How often should a metal detector be checked?**  
+**How often should a metal detector be checked?**\
 EAS 39 says the sensitivity of the search head should be checked at least once per 8-hour shift by a designated person, and that the reject mechanism should be checked at the same time. Many plants also check at start-up, after product changes and at the end of the run.
 
-**What size should a metal detector detect?**  
+**What size should a metal detector detect?**\
 EAS 39 says the detector should be capable of detecting 2 mm ferrous and 2.5 mm non-ferrous spheres unless the composition of the food makes this impossible. Your customers may set tighter limits, including for stainless steel.
 
-**Can a metal detector find glass or plastic?**  
+**Can a metal detector find glass or plastic?**\
 No. Standard metal detectors do not detect glass, most plastics, wood or stones. X-ray inspection can detect some dense non-metal materials, but prevention through a glass register, a breakage procedure, sieves and equipment inspection remains the main control.
 
-**What should we do when glass breaks in production?**  
+**What should we do when glass breaks in production?**\
 Stop the line, alert the designated person, hold exposed product and materials in the affected area, clean up with dedicated tools, account for the pieces, inspect before restarting, and record what happened. EAS 39 makes the designated person responsible for identifying and destroying any food that could have been contaminated.
 
 ---
