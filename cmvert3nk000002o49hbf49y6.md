@@ -1,5 +1,5 @@
 ---
-title: "A "May Contain" Label Is Not an Allergen Plan: Why Kenyan Food Factories Must Control Allergens on the Floor, Not on the Pack"
+title: "A "May Contain" Label Is Not an Allergen Plan: Why Food Factories Must Control Allergens on the Floor, Not on the Pack"
 datePublished: 2026-10-19T04:44:56.408Z
 cuid: cmvert3nk000002o49hbf49y6
 slug: allergen-control-checklist-food-factories-kenya
@@ -7,7 +7,6 @@ canonical: https://factoraerp.com/en/blog/allergen-control-checklist-food-factor
 tags: erp, small-business, manufacturing, kenya, food-safety
 
 ---
-
 
 *By Isaac Muthui, CEO, Tamalaki Business Network Ltd*
 
@@ -46,52 +45,52 @@ Undeclared allergens usually get in through ordinary gaps, not dramatic failures
 
 ## The 8-step allergen control checklist
 
-### 1. Build an allergen matrix for every material and product
+### 1\. Build an allergen matrix for every material and product
 
 - List every raw material, ingredient, processing aid and rework stream, and mark which allergens each contains. Start from the Codex list (gluten cereals, crustaceans, eggs, fish, milk, peanuts, soybeans, tree nuts, plus sulphites at 10 mg/kg or more) and add anything your customers or export markets require.
 - Do the same for every finished product, based on its current recipe or bill of materials.
 - Include the less obvious sources: flavourings, seasonings, improvers, glazes, release agents and carriers.
 - Review the matrix whenever a recipe, supplier or specification changes. An out-of-date matrix is worse than none, because people trust it.
 
-### 2. Check allergen status at intake
+### 2\. Check allergen status at intake
 
 - Ask every supplier for a specification that states allergens, and for notice before any change. Add an allergen line to your [supplier intake checklist](https://factoraerp.com/en/blog/supplier-intake-checklist-food-manufacturers-kenya).
 - At receipt, check the label on the bag or drum against the approved specification. Codex mentions inspecting incoming materials for declared allergens before processing.
 - Hold any material whose label does not match its specification until QA has checked it. A "new improved formula" sticker is a reason to stop, not a reason to celebrate.
 
-### 3. Segregate and identify allergens in storage
+### 3\. Segregate and identify allergens in storage
 
 - Store allergen-containing materials in a defined, labelled area, below and away from non-allergen materials, so a spill cannot fall into them. Codex section 9.2.7 expects storage that allows segregation of allergenic and non-allergenic food.
 - Use colour-coded tags, bins or shelf labels for each allergen, and keep opened bags closed and labelled.
 - Clean up spills straight away, with dedicated tools.
 
-### 4. Plan production to reduce cross-contact
+### 4\. Plan production to reduce cross-contact
 
 - Where you can, dedicate lines, equipment or rooms to allergen products.
 - Where you share, sequence production: allergen-free products first, allergen products last, then a full clean. Codex accepts separation "physically or by time" with effective cleaning between allergen profiles.
 - Watch the shared things people forget: scoops, sieves, scales, shovels, aprons and gloves, airborne flour or powder, and the drip from an overhead conveyor.
 - Make the schedule visible, so nobody squeezes a plain run in after a peanut run without a full clean.
 
-### 5. Validate the allergen changeover clean, then verify it every time
+### 5\. Validate the allergen changeover clean, then verify it every time
 
 - Define a separate changeover type for "allergen to non-allergen" in your [line clearance checklist](https://factoraerp.com/en/blog/line-clearance-checklist-food-factories-kenya), with its own cleaning method, tools and sign-off.
 - Take apart the equipment that traps residue (seals, valves, dead legs, seasoning drums, hoppers), and clean it, rather than rinsing it through.
 - Verify the clean every time: visual inspection by someone other than the cleaner, and, where your risk assessment calls for it, protein or allergen swabs, as Codex section 11.1.1 suggests.
 - Record the line, the time, the product before and after, the method, the person who cleaned, the person who checked, and any swab result.
 
-### 6. Control rework
+### 6\. Control rework
 
 - Only add rework back into the same product, or into a product with the same or a wider allergen profile.
 - Label rework with its product, batch and allergens, and store it like any allergen material.
 - Record where every kilogram of rework went. If you cannot trace it, do not use it.
 
-### 7. Match labels to recipes, and use precautionary labelling honestly
+### 7\. Match labels to recipes, and use precautionary labelling honestly
 
 - Before each pack run, check that the label's ingredients list and allergen statement match the current recipe. Make allergen changes part of your recipe change approval.
 - Use "may contain" statements only where your own assessment shows cross-contact cannot be prevented despite good controls, which is how Codex frames informing consumers. A "may contain" label is not a substitute for cleaning, and putting it on everything makes it meaningless to the people who rely on it.
 - Treat a wrong allergen label as a food safety event, not a packaging error.
 
-### 8. Train people, act on failures and keep the file
+### 8\. Train people, act on failures and keep the file
 
 - Train everyone who handles food, cleans or stores materials on what allergens are, which ones your plant handles, and what the rules are. Codex calls for specific allergen awareness training where necessary. Record who was trained and when.
 - When something fails (a mislabelled bag, a skipped clean, a failed swab or a complaint), stop, find the cause, and place the affected batches on a [QA hold](https://factoraerp.com/en/blog/qa-hold-checklist-before-batch-leaves-warehouse-kenya) until they are assessed.
@@ -116,31 +115,30 @@ FactoraERP links production orders to recipes and BOM versions, issued material 
 
 ## Free download: eTIMS readiness checklist for factories
 
-Hygiene records, stock records and invoices increasingly have to tell the same story for Kenyan manufacturers. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at [https://isaacmuthui.substack.com](https://isaacmuthui.substack.com). You will get practical operations notes for food and agro manufacturers. No spam; unsubscribe anytime. For background, see our guide to [eTIMS for food and agro manufacturers](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya).
+Hygiene records, stock records and invoices increasingly have to tell the same story for Kenyan manufacturers. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at <https://isaacmuthui.substack.com>. You will get practical operations notes for food and agro manufacturers. No spam; unsubscribe anytime. For background, see our guide to [eTIMS for food and agro manufacturers](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya).
 
 ## FAQ
 
-**What should an allergen control checklist for a food factory include?**  
+**What should an allergen control checklist for a food factory include?**\
 An allergen matrix for every material and product, allergen checks at intake, segregated and labelled storage, production planning that reduces cross-contact, validated and verified allergen changeover cleans, rework rules, label-to-recipe checks, staff training, and a procedure for failures that includes holding affected batches and keeping records.
 
-**Which allergens must be declared on food labels in Kenya?**  
+**Which allergens must be declared on food labels in Kenya?**\
 KS EAS 38:2014, Labelling of pre-packaged foods, is Kenya's labelling standard, and KEBS has said it requires allergen declaration. The Codex General Standard (CXS 1-1985, section 4.2.1.4) lists cereals containing gluten, crustacea, egg, fish, peanuts, soybeans, milk and milk products, tree nuts, and sulphites at 10 mg/kg or more. Check the exact list in your copy of the standard and any export market rules.
 
-**Does cooking or pasteurising remove allergens?**  
+**Does cooking or pasteurising remove allergens?**\
 No. The Codex code of practice on allergen management (CXC 80-2020) says treatments that kill pathogens, such as heating and high pressure processing, generally do not destroy allergenic proteins, and protein-degrading processes should not be relied on to eliminate them. Allergens have to be kept out or cleaned out.
 
-**Is a "may contain" label enough?**  
+**Is a "may contain" label enough?**\
 No. Codex says consumers should be informed where cross-contact cannot be prevented *despite well-implemented controls*. A precautionary label is the last step after segregation, scheduling and cleaning, not a replacement for them.
 
-**Can we run allergen and non-allergen products on the same line?**  
+**Can we run allergen and non-allergen products on the same line?**\
 Yes, if you control it. Codex allows separation by time with effective cleaning between foods with different allergen profiles. Run allergen-free products first, define an allergen changeover clean, verify it every time and record it.
 
-**How do we check that an allergen clean worked?**  
+**How do we check that an allergen clean worked?**\
 Visual inspection by someone other than the cleaner is the minimum. Codex section 11.1.1 also mentions protein and allergen test swabs to verify that cleaning programmes are effective. Agree the method and frequency with your QA team and laboratory, based on your risk assessment.
 
 ---
 
 *Isaac Muthui, CEO, Tamalaki Business Network Ltd*
 
-
-*Originally published at [factoraerp.com](https://factoraerp.com/en/blog/allergen-control-checklist-food-factories-kenya).*
+*Originally published at* [*factoraerp.com*](https://factoraerp.com/en/blog/allergen-control-checklist-food-factories-kenya)*.*
