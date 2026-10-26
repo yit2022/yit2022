@@ -1,5 +1,5 @@
 ---
-title: "A 4°C Reading on the Cold Room Door Does Not Mean Your Product Was Cold: Why Kenyan Food Factories Must Monitor the Whole Night, Not Two Moments"
+title: "A 4°C Reading on the Cold Room Door Does Not Mean Your Product Was Cold: Why Food Factories Must Monitor the Whole Night, Not Two Moments"
 datePublished: 2026-10-24T11:29:25.353Z
 cuid: cmvmbgj1c001108iffmvy7vzu
 slug: cold-chain-temperature-monitoring-checklist-food-factories-kenya
