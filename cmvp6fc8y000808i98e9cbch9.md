@@ -1,5 +1,5 @@
 ---
-title: "The Most Dangerous Bottle in Your Factory Is the One Without a Label: Why Kenyan Food Factories Must Control Non-Food Chemicals Like Ingredients"
+title: "The Most Dangerous Bottle in Your Factory Is the One Without a Label: Why Food Factories Must Control Non-Food Chemicals Like Ingredients"
 datePublished: 2026-10-26T11:31:50.346Z
 cuid: cmvp6fc8y000808i98e9cbch9
 slug: chemical-control-checklist-food-factories-kenya
@@ -8,7 +8,7 @@ tags: erp, manufacturing, kenya, supply-chain, food-safety
 
 ---
 
-*By Isaac Muthui, CEO, Tamalaki Business Network Ltd. Originally published at [factoraerp.com](https://factoraerp.com/en/blog/chemical-control-checklist-food-factories-kenya).*
+*By Isaac Muthui, CEO, Tamalaki Business Network Ltd. Originally published at* [*factoraerp.com*](https://factoraerp.com/en/blog/chemical-control-checklist-food-factories-kenya)*.*
 
 Every food factory runs on chemicals that must never end up in the food. Caustic and acid for CIP. Chlorine and other sanitisers for surfaces and crates. Grease and oil for bearings, chains and gearboxes. Insecticides and rodenticides in the pest contractor's box. Reagents in the lab. Diesel for the generator and the forklift.
 
@@ -36,61 +36,61 @@ The patterns are familiar. A sanitiser is mixed in a bucket at the start of the 
 
 ## The 10-step chemical control checklist
 
-### 1. Keep a chemical register and approve every chemical before it comes on site
+### 1\. Keep a chemical register and approve every chemical before it comes on site
 
 - List every chemical on site: cleaning and sanitising agents, CIP chemicals, lubricants, boiler and cooling-water treatments, lab reagents, pesticides, fuels and paints. For each one, record its name, supplier, use, where it is stored, who may use it and a link to its safety data sheet. The OSH Act asks employers to keep a record of hazardous chemicals cross-referenced to the safety data sheets.
 - Approve chemicals before purchase, not after. A new chemical should not be used until QA has confirmed it is suitable for a food plant, for example a sanitiser that the supplier confirms is suitable for food-contact surfaces or a lubricant that is food grade, and until safety has the data sheet.
 - Hold the line on what is allowed. The US rule's four categories (cleaning, lab, maintenance, operations) are a useful test: if a chemical does not fit one of them, it should not be in the plant. Treat new chemical suppliers like any other supplier, as in our [supplier intake checklist](https://factoraerp.com/en/blog/supplier-intake-checklist-food-manufacturers-kenya).
 
-### 2. Have a safety data sheet for every chemical, where people can reach it
+### 2\. Have a safety data sheet for every chemical, where people can reach it
 
 - Keep a current safety data sheet for every chemical in the register, as section 84(3) of the OSH Act requires, and ask the supplier for one when it is missing (section 85(5)).
 - Put copies where the chemicals are used and stored, not only in the safety officer's office. A data sheet locked in a cabinet is no help during a spill on the night shift.
 - Use the data sheets to write short, local instructions: what PPE to wear, how to dilute, what to do if it splashes, what not to mix it with.
 
-### 3. Store chemicals separately from food, ingredients and packaging
+### 3\. Store chemicals separately from food, ingredients and packaging
 
 - Keep a dedicated, locked or controlled chemical store, away from raw materials, finished goods and packaging. EAS 39 requires detergents and sterilising materials to be stored in a separate area to food; Codex asks for separate facilities for non-food chemicals including lubricants and fuels.
 - Inside the store, separate incompatible chemicals, for example acids from chlorine-based products and from alkalis, according to the safety data sheets. Store liquids below powders and use drip trays or bunding for drums.
 - Keep only what a shift needs at the point of use, in a marked chemical station, never on top of ingredient bags, on packing tables or above open product.
 
-### 4. Label every container, including the small ones
+### 4\. Label every container, including the small ones
 
 - Every chemical container should be labelled, including buckets, spray bottles and dosing tanks filled from a bulk drum. The OSH Act requires all chemicals used at a workplace to be labelled or marked, and Codex asks for chemicals to be stored in clearly identified containers.
 - Never decant chemicals into food or drink containers, or into anything that looks like one. Never use ingredient tubs or scoops for chemicals.
 - Use colour-coded, dedicated containers and utensils for chemicals so they cannot be mistaken for food-handling equipment. Our [cleaning and sanitation checklist](https://factoraerp.com/en/blog/cleaning-sanitation-checklist-food-factories-kenya) covers colour coding for cleaning tools.
 
-### 5. Control dilution and contact time
+### 5\. Control dilution and contact time
 
 - Write down the correct dilution and contact time for each cleaning and sanitising chemical, from the manufacturer's instructions, as Codex asks. Too strong risks residues on food-contact surfaces and harm to staff. Too weak, and the surface is not properly sanitised.
 - Use dosing pumps, marked measuring jugs or pre-measured sachets rather than "a cup per bucket". Check concentration with test strips or titration kits where the supplier provides them.
 - Record the checks. Our [HACCP CCP monitoring checklist](https://factoraerp.com/en/blog/haccp-ccp-monitoring-checklist-food-factories-kenya) shows what a good monitoring record looks like, and the same discipline applies to sanitiser concentrations.
 
-### 6. Rinse, verify and protect food-contact surfaces
+### 6\. Rinse, verify and protect food-contact surfaces
 
 - Follow cleaning with rinsing where the manufacturer's instructions require it. Codex says disinfection is followed by rinsing "unless the manufacturer's instructions indicate that, on a scientific basis, rinsing is not required".
 - Verify that no residue is left where it matters: final rinse checks on CIP systems (for example, pH or conductivity where your system allows), visual checks, and residue test strips where the chemical supplier offers them.
 - Cover or remove product, ingredients and packaging before cleaning or maintenance near the line, so splashes and aerosols cannot reach them.
 
-### 7. Use food-grade lubricants wherever there is any chance of contact
+### 7\. Use food-grade lubricants wherever there is any chance of contact
 
 - Identify every lubrication point on food equipment and classify it: could the lubricant reach the product, a food-contact surface or packaging, even by dripping or spraying? If yes, use a food-grade lubricant suitable for incidental food contact and keep a record of which product is used where.
 - Keep food-grade and non-food-grade lubricants physically separate and clearly marked in the engineering store, with dedicated grease guns. A single grease gun used for both defeats the purpose.
 - Use as little as needed, fix leaking seals and fit catch trays where EAS 39 calls for them. Build lubrication into your [preventive maintenance](https://factoraerp.com/en/blog/preventive-maintenance-basics-food-agro-factories-kenya) schedule so it is planned, not improvised.
 
-### 8. Control pesticides and the pest contractor's chemicals
+### 8\. Control pesticides and the pest contractor's chemicals
 
 - Use only registered pest control products, applied by a trained, qualified contractor or staff member, and keep a list of every product used on site with its data sheet. The Pest Control Products Act requires products sold in Kenya to be registered.
 - Do not use pesticides while processing is in progress, as EAS 39 requires, and protect or remove exposed product, ingredients and packaging before any treatment. Do not use open baits in processing areas.
 - Ask the contractor to record each treatment: product, quantity, location, date and the person who applied it. Our [pest control checklist](https://factoraerp.com/en/blog/pest-control-checklist-food-factories-kenya) covers the rest of the programme.
 
-### 9. Train, equip and prepare for spills
+### 9\. Train, equip and prepare for spills
 
 - Train everyone who handles chemicals in the dilution, PPE and first aid for the chemicals they use, and refresh it regularly. Codex says those who handle cleaning chemicals should be instructed in proper use to prevent contamination of food.
 - Provide the PPE the safety data sheets call for, and eye wash and drenching facilities near mixing and dispensing points, as EAS 39 (6.3.8) and the OSH Act (section 87) require.
 - Keep a spill kit at the chemical store and dosing points, and write a short spill procedure: stop work, protect product, contain, clean up, and decide with QA whether any product was exposed. If product may be affected, place it on [QA hold](https://factoraerp.com/en/blog/qa-hold-checklist-before-batch-leaves-warehouse-kenya).
 
-### 10. Manage stock, empties and waste, and review the programme
+### 10\. Manage stock, empties and waste, and review the programme
 
 - Issue chemicals from the store against a record and count them regularly, like any other stock. Unexplained usage, either too much or too little, often points to a dilution problem. Use the oldest stock first and do not use chemicals past their expiry date.
 - Never reuse empty chemical containers for food, ingredients or water. Return them to the supplier where possible, or dispose of them through a suitable system, as section 83(4) of the OSH Act asks.
@@ -101,7 +101,7 @@ The patterns are familiar. A sanitiser is mixed in a bucket at the start of the 
 For each chemical on site, the record should let a manager answer six questions without searching:
 
 | Question | What the record should show |
-|---|---|
+| --- | --- |
 | What is it, and is it approved? | Chemical name, supplier, purpose, approval by QA and safety, food-contact suitability or food-grade status where relevant |
 | Where is the safety information? | Current safety data sheet, PPE required, first aid and spill instructions |
 | Where is it stored? | Store location, segregation group, quantity held, point-of-use stations |
@@ -127,26 +127,26 @@ FactoraERP lets a factory keep chemicals in its inventory catalogue under their 
 
 ## Free download: eTIMS readiness checklist for factories
 
-Kenyan manufacturers increasingly need their operational records, stock records and invoices to tell one consistent story. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at [https://isaacmuthui.substack.com](https://isaacmuthui.substack.com). You will get practical operations notes for food and agro manufacturers. No spam; unsubscribe anytime. For background, see our guide to [eTIMS for food and agro manufacturers](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya).
+Kenyan manufacturers increasingly need their operational records, stock records and invoices to tell one consistent story. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at <https://isaacmuthui.substack.com>. You will get practical operations notes for food and agro manufacturers. No spam; unsubscribe anytime. For background, see our guide to [eTIMS for food and agro manufacturers](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya).
 
 ## FAQ
 
-**What is chemical control in a food factory?**  
+**What is chemical control in a food factory?**\
 Chemical control is the set of routines that keep non-food chemicals, such as cleaning agents, sanitisers, lubricants, pesticides, lab reagents and fuels, from contaminating food, food-contact surfaces and packaging. Codex asks food businesses to have systems in place to prevent or minimise contamination of foods by harmful chemicals.
 
-**What should a chemical control checklist include?**  
+**What should a chemical control checklist include?**\
 A chemical register with approval before purchase, safety data sheets for every chemical, separate storage away from food, labels on every container, controlled dilution and contact times, rinsing and residue checks, food-grade lubricants where contact is possible, control of pesticides, training, PPE and spill procedures, and management of stock, empties and waste.
 
-**Where should cleaning chemicals be stored in a food factory?**  
+**Where should cleaning chemicals be stored in a food factory?**\
 In a dedicated chemical store separate from food, ingredients and packaging, with incompatible chemicals kept apart. EAS 39 requires detergents and sterilising materials to be stored in a separate area to food and clearly labelled or marked. Only the quantities needed for a shift should be kept at the point of use, in marked containers.
 
-**Do Kenyan food factories need safety data sheets for chemicals?**  
+**Do Kenyan food factories need safety data sheets for chemicals?**\
 Yes. Section 84(3) of the Occupational Safety and Health Act, 2007 requires every employer to ensure that material safety data sheets are available at the workplace for all chemicals and other hazardous substances in use, and section 85 requires chemicals to be labelled and a record of hazardous chemicals to be kept.
 
-**What is a food-grade lubricant?**  
+**What is a food-grade lubricant?**\
 A lubricant formulated for use on food-processing equipment where incidental contact with food may occur. In the US, 21 CFR 178.3570 lists the substances that may be used in lubricants with incidental food contact and requires that only the minimum needed is used. Factories should use food-grade lubricants at any point where lubricant could reach product, food-contact surfaces or packaging.
 
-**What should happen if a chemical spills near the production line?**  
+**What should happen if a chemical spills near the production line?**\
 Stop work in the area, protect or remove exposed product, contain and clean the spill using the spill kit and the safety data sheet, and decide with QA whether any product, surface or packaging was affected. Any product that may have been exposed should be placed on QA hold until a decision is made, and the incident should be recorded and investigated.
 
 ---
