@@ -1,5 +1,5 @@
 ---
-title: "Rework Is Not a Side Activity, It Is Production Running Backwards: Why Kenyan Food Factories Must Control It Like a Batch"
+title: "Rework Is Not a Side Activity, It Is Production Running Backwards: Why Food Factories Must Control It Like a Batch"
 datePublished: 2026-10-25T11:33:21.710Z
 cuid: cmvnr1g2r000208l09i1uhgj0
 slug: rework-control-checklist-food-factories-kenya
@@ -8,7 +8,7 @@ tags: erp, manufacturing, kenya, supply-chain, food-safety
 
 ---
 
-*By Isaac Muthui, CEO, Tamalaki Business Network Ltd. Originally published at [factoraerp.com](https://factoraerp.com/en/blog/rework-control-checklist-food-factories-kenya).*
+*By Isaac Muthui, CEO, Tamalaki Business Network Ltd. Originally published at* [*factoraerp.com*](https://factoraerp.com/en/blog/rework-control-checklist-food-factories-kenya)*.*
 
 Every food factory makes rework. Underweight packs are cut open and the product goes back to the hopper. Biscuits that broke on the line are milled and added to the next mix. Milk from a tank that missed its temperature is pasteurised again. Packs with a smudged date code are re-labelled. Returned cartons come back from a distributor and someone has to decide what happens to them.
 
@@ -36,61 +36,61 @@ The common gaps are predictable. Rework is stored in unlabelled tubs or bags, so
 
 ## The 10-step rework control checklist
 
-### 1. Define what can and cannot be reworked, in writing
+### 1\. Define what can and cannot be reworked, in writing
 
 - Write a short rework policy for each product: which reasons for removal allow rework (for example underweight packs, broken product, packaging faults, a smudged code) and which do not (for example foreign body findings, pest contamination, product from an unknown source, or anything returned by a customer without a clear history).
 - Separate quality rework from safety rework. Product removed for cosmetic or packaging reasons is very different from product that missed a critical limit. The second can only be reworked through a process that has been shown to make it safe, if at all.
 - Have the HACCP team sign off the policy, and include the rework routes in the flow diagram, as Codex asks.
 
-### 2. Identify rework the moment it is created
+### 2\. Identify rework the moment it is created
 
 - Label every container of rework at the point it is pulled from the line: product name, original batch or lot number, date and time, reason, quantity, allergens and the name of the person who created it. The US rule says material scheduled for rework "must be identified as such".
 - Use a distinct label colour or tag for rework, so it can never be confused with good finished goods or with fresh raw material.
 - Never leave rework unlabelled "just until the end of the shift". That is when it gets lost or mixed up.
 
-### 3. Hold rework under QA control until a decision is made
+### 3\. Hold rework under QA control until a decision is made
 
 - Treat new rework like any product on hold: it cannot be used, packed or dispatched until someone with authority has decided what happens to it. Our [QA hold checklist](https://factoraerp.com/en/blog/qa-hold-checklist-before-batch-leaves-warehouse-kenya) covers how to make a hold stick.
 - Record the decision: rework into a named product, divert to another use such as animal feed where permitted, or destroy. Codex lists reprocessing, diversion and destruction as the options.
 - Keep returned product completely separate, in its own area, as the Kenyan dairy regulations require for returned dairy produce, until its history and condition have been checked.
 
-### 4. Store rework so it stays safe
+### 4\. Store rework so it stays safe
 
 - Store rework in clean, covered, food-grade containers, off the floor and away from raw materials and waste, as the US rule requires for containers that protect against contamination and allergen cross-contact.
 - Control temperature and time. Rework that needs chilling must be chilled, and every product should have a maximum time it can be kept as rework before it must be used or destroyed. Our [cold chain temperature monitoring checklist](https://factoraerp.com/en/blog/cold-chain-temperature-monitoring-checklist-food-factories-kenya) covers the chilled side.
 - Use rework in date order, first in, first out, and never allow rework to be added to rework indefinitely.
 
-### 5. Match allergens: like into like
+### 5\. Match allergens: like into like
 
 - Rework containing an allergen should only go into the same product or a product that already declares the same allergen. The US rule requires allergen-containing rework to be identified and held to prevent allergen cross-contact.
 - Build an allergen matrix that shows, for each product, which rework is allowed into it. If a rework is not on the list for that product, it is not used.
 - Check the label of the receiving product before adding rework. Our [allergen control checklist](https://factoraerp.com/en/blog/allergen-control-checklist-food-factories-kenya) and [label control checklist](https://factoraerp.com/en/blog/label-control-checklist-food-manufacturers-kenya) cover how to keep allergen declarations accurate.
 
-### 6. Never blend to dilute a safety problem
+### 6\. Never blend to dilute a safety problem
 
 - Do not mix contaminated or out-of-specification product into good product to bring the result within specification. EAS 39 says food contaminated by pathogenic organisms "shall not be blended with uncontaminated product, as a means of bringing the food within specification".
 - Apply the same rule to chemical hazards. For maize and groundnut products, for example, aflatoxin-contaminated material should never be "averaged out" with clean grain. Our [aflatoxin control checklist](https://factoraerp.com/en/blog/aflatoxin-control-checklist-maize-millers-kenya) explains why.
 - If product failed a safety test, it is only eligible for rework through a process that has been shown to remove the hazard, followed by re-testing, as the US rule requires for reconditioned food.
 
-### 7. Set a maximum rework rate for each product
+### 7\. Set a maximum rework rate for each product
 
 - Decide, with QA and product development, the maximum percentage of rework that can be added to each batch without affecting safety, texture, taste, shelf life or label claims. Write it on the batch sheet or recipe.
 - Weigh rework into batches, do not add it by eye. Record the quantity and the rework lot numbers used.
 - Watch for drift. If the rework rate keeps climbing, the problem is upstream in the process, and adding more rework is hiding it.
 
-### 8. Record which batches received which rework
+### 8\. Record which batches received which rework
 
 - The batch record of every batch that uses rework should list the rework lot numbers and quantities, and each rework lot should point back to the batches it came from.
 - This creates a chain in both directions: from a finished batch to every earlier batch whose material it contains, and from a problem batch to every later batch that received its rework. Codex says lot identification is essential in product recall.
 - Test it in your next [mock recall](https://factoraerp.com/en/blog/how-to-run-a-mock-recall-food-traceability-kenya). If you cannot trace rework in both directions within minutes, a recall that should cover one batch could end up covering a week of production.
 
-### 9. Repack and re-label under the same controls as first-time packing
+### 9\. Repack and re-label under the same controls as first-time packing
 
 - When rework means repacking or re-labelling, run the same [line clearance](https://factoraerp.com/en/blog/line-clearance-checklist-food-factories-kenya) and label checks you would for any new run, so the wrong labels or old packaging cannot end up on the line.
 - Keep the original production and expiry dates. Reworked product should never be given a later expiry date than the oldest material in it can support. KEBS has warned that repackaged food must carry correct labelling, including date marking. In 2019, police in Nairobi [seized tonnes of expired sugar and rice](https://sokodirectory.com/2019/05/tonnes-of-expired-rice-sugar-being-repackaged-seized-in-kariobangi/) that were being repackaged in new bags with new manufacturing and expiry dates. That is fraud, not rework, and your records should make the difference obvious.
 - Check the net quantity again after repacking. Our [net quantity checklist](https://factoraerp.com/en/blog/net-quantity-pack-weight-checks-food-factories-kenya) covers the pack weight rules.
 
-### 10. Count, cost and review rework every week
+### 10\. Count, cost and review rework every week
 
 - Record rework quantities by product, reason and shift. This is stock, and it should appear in your stock records. Our [stock count reconciliation checklist](https://factoraerp.com/en/blog/stock-count-reconciliation-checklist-food-factories-kenya) explains why unrecorded stock causes reconciliation gaps.
 - Cost it. Rework uses labour, energy and packaging twice. Our guide to [batch costing and yield tracking](https://factoraerp.com/en/blog/batch-costing-yield-tracking-agro-processors-kenya) shows how rework distorts the true yield if it is not recorded.
@@ -101,7 +101,7 @@ The common gaps are predictable. Rework is stored in unlabelled tubs or bags, so
 For each rework lot, the record should let a supervisor answer six questions without searching:
 
 | Question | What the record should show |
-|---|---|
+| --- | --- |
 | What is it and where did it come from? | Product, original batch or lot, date, time, quantity |
 | Why was it pulled? | Reason: weight, breakage, packaging, temperature, test result, return |
 | Who decided what happens to it? | Disposition (rework, divert, destroy) and the name of the person who approved it |
@@ -127,26 +127,26 @@ FactoraERP tracks production batches and lots, stock status including QA holds, 
 
 ## Free download: eTIMS readiness checklist for factories
 
-Kenyan manufacturers increasingly need their operational records, stock records and invoices to tell one consistent story. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at [https://isaacmuthui.substack.com](https://isaacmuthui.substack.com). You will get practical operations notes for food and agro manufacturers. No spam; unsubscribe anytime. For background, see our guide to [eTIMS for food and agro manufacturers](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya).
+Kenyan manufacturers increasingly need their operational records, stock records and invoices to tell one consistent story. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at <https://isaacmuthui.substack.com>. You will get practical operations notes for food and agro manufacturers. No spam; unsubscribe anytime. For background, see our guide to [eTIMS for food and agro manufacturers](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya).
 
 ## FAQ
 
-**What is rework in food manufacturing?**  
+**What is rework in food manufacturing?**\
 Rework is clean, safe food that has been taken out of processing for reasons other than insanitary conditions, such as underweight packs, breakage or packaging faults, or food that has been successfully reconditioned and is suitable for use. This follows the definition in the US food safety rule 21 CFR 117.3. Product that became contaminated is not rework unless it has been reconditioned by a proven method and shown to be safe.
 
-**What should a rework control checklist include?**  
+**What should a rework control checklist include?**\
 A written rework policy, labelling at the point of creation, a QA hold until a decision is made, safe storage with time limits, allergen matching, a ban on blending to dilute a safety problem, a maximum rework rate per product, batch records that show which rework went where, controlled repacking and re-labelling, and weekly counting, costing and review.
 
-**Can contaminated product be blended with good product?**  
+**Can contaminated product be blended with good product?**\
 No, not as a way of bringing it within specification. EAS 39 says food contaminated by pathogenic organisms shall not be blended with uncontaminated product to bring it within specification. Contaminated food should be rejected, or treated or re-processed to eliminate the contamination where that can be achieved and has been shown to work.
 
-**How should allergen-containing rework be handled?**  
+**How should allergen-containing rework be handled?**\
 Label it with its allergens, store it so it cannot cross-contact other materials, and only use it in the same product or a product that already declares the same allergen. An allergen matrix that lists which rework is allowed into which product makes this easy to check on the floor.
 
-**Can returned products be reworked?**  
+**Can returned products be reworked?**\
 Only with care. Codex says removed or returned products should be held under secure conditions until they are destroyed, diverted, found safe or reprocessed to reduce the hazard where the competent authority permits. Kenya's dairy regulations require separate areas for returned dairy produce. Many factories do not rework customer returns at all, because their storage history is unknown.
 
-**Does reworked product need a new expiry date?**  
+**Does reworked product need a new expiry date?**\
 No. Reworked product should never carry a later expiry date than the oldest material in it can support, and its label must remain accurate. KEBS requires repackaged food to comply with the labelling specifications of the relevant Kenya Standard, including date marking.
 
 ---
