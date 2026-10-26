@@ -1,5 +1,5 @@
 ---
-title: "Your Annual Stocktake Is Hiding Your Losses: Why Kenyan Food Factories Should Count Less, More Often"
+title: "Your Annual Stocktake Is Hiding Your Losses: Why Food Factories Should Count Less, More Often"
 datePublished: 2026-10-17T04:54:10.973Z
 cuid: cmvbx9a8k000102o38hge7lin
 slug: stock-count-reconciliation-checklist-food-factories-kenya
@@ -39,7 +39,7 @@ Most factories benefit from both: a full count to set the baseline, then cycle c
 
 ## The 8-step stock count reconciliation checklist
 
-### 1. Freeze or cut off movements for the items being counted
+### 1\. Freeze or cut off movements for the items being counted
 
 You cannot count a moving target.
 
@@ -50,7 +50,7 @@ You cannot count a moving target.
 
 Most "variances" in small factories are timing: a dispatch loaded at 4pm and posted the next morning, or flour issued to the packing line and never recorded.
 
-### 2. Count blind, by location and by lot
+### 2\. Count blind, by location and by lot
 
 The counter should not see the system quantity.
 
@@ -61,7 +61,7 @@ The counter should not see the system quantity.
 
 A count sheet that already shows "expected: 1,200" invites people to find 1,200.
 
-### 3. Separate the counter from the person who controls the stock
+### 3\. Separate the counter from the person who controls the stock
 
 - Use two-person teams where possible: one counts, one records.
 - The storekeeper responsible for the stock should not be the only person counting it.
@@ -69,7 +69,7 @@ A count sheet that already shows "expected: 1,200" invites people to find 1,200.
 
 This is not an accusation. It is the same separation of duties any auditor will look for, and it protects honest storekeepers.
 
-### 4. Include every status: released, hold, quarantine, rework, returns and scrap
+### 4\. Include every status: released, hold, quarantine, rework, returns and scrap
 
 Stock that is "not really stock" still has to be counted.
 
@@ -79,7 +79,7 @@ Stock that is "not really stock" still has to be counted.
 
 A pallet counted as "released" that is physically in the quarantine bay is a finding, even if the total matches.
 
-### 5. Compare to the system and recount every significant variance
+### 5\. Compare to the system and recount every significant variance
 
 Only now does anyone look at the expected quantity.
 
@@ -89,7 +89,7 @@ Only now does anyone look at the expected quantity.
 
 **Illustration (not real customer data):** a mill's system shows 400 bags of a 50 kg raw maize lot; the first count finds 380. The recount finds the 20 "missing" bags sitting in the cleaning section, issued to production on a paper slip that was never posted. The variance was a posting gap, not a loss.
 
-### 6. Find the root cause before you adjust anything
+### 6\. Find the root cause before you adjust anything
 
 An adjustment without a reason teaches nobody anything. For each confirmed variance, check in order:
 
@@ -103,7 +103,7 @@ An adjustment without a reason teaches nobody anything. For each confirmed varia
 
 Write the reason code next to each variance.
 
-### 7. Approve adjustments with a named person, a reason and a value
+### 7\. Approve adjustments with a named person, a reason and a value
 
 - Every adjustment carries: item, lot, location, system quantity, counted quantity, difference, value, reason code and approver.
 - Set approval limits: small values approved by the store or production lead, larger ones by finance or the owner.
@@ -112,7 +112,7 @@ Write the reason code next to each variance.
 
 If the only record of a write-off is "stock adj Oct" in a journal, you will not be able to explain it later to a buyer, an auditor or KRA.
 
-### 8. Keep the evidence and track variances over time
+### 8\. Keep the evidence and track variances over time
 
 - File signed count sheets, recount sheets and the approved adjustment list together, by count date. Given the five-year record rule in section 23 of the Tax Procedures Act, plan to keep them at least that long, and ask your accountant about anything longer.
 - Track variance by item and reason across counts. The same item showing a loss every week is a process problem, not bad luck.
@@ -136,26 +136,26 @@ FactoraERP keeps stock by item, lot, location and status, records receipts, prod
 
 ## Free download: eTIMS readiness checklist for factories
 
-Stock movements, adjustments and invoices increasingly have to tell the same story for Kenyan manufacturers. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at [https://isaacmuthui.substack.com](https://isaacmuthui.substack.com). You will get practical operations notes for food and agro manufacturers. No spam; unsubscribe anytime.
+Stock movements, adjustments and invoices increasingly have to tell the same story for Kenyan manufacturers. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at <https://isaacmuthui.substack.com>. You will get practical operations notes for food and agro manufacturers. No spam; unsubscribe anytime.
 
 ## FAQ
 
-**What is stock count reconciliation?**  
+**What is stock count reconciliation?**\
 It is the process of comparing physically counted stock with the quantities in your records, recounting significant differences, finding the root cause of each variance, and posting approved adjustments with a reason and a named approver.
 
-**How often should a food factory count stock?**  
+**How often should a food factory count stock?**\
 Many factories do a full stocktake at period-end and cycle counts in between: high-value or fast-moving raw materials more often, slow movers less often. Choose a schedule your team can actually keep.
 
-**What is a blind count?**  
+**What is a blind count?**\
 A count where the counter does not see the expected system quantity, so the figure written down is what is physically there rather than what the report says should be there.
 
-**Should we adjust the system to match the count straight away?**  
+**Should we adjust the system to match the count straight away?**\
 Only after a recount confirms the difference and the root cause is recorded. Adjusting immediately hides posting errors that will repeat.
 
-**How long should we keep count sheets?**  
+**How long should we keep count sheets?**\
 Section 23 of Kenya's Tax Procedures Act, 2015 sets a general five-year retention period for documents required under a tax law, with exceptions. Treat count sheets and adjustment approvals as part of that record set and confirm specifics with your accountant.
 
-**Can a small factory do this without software?**  
+**Can a small factory do this without software?**\
 Yes. Pre-printed blind count sheets, a cut-off rule, a recount threshold, reason codes and a signed adjustment list cover the basics. Software helps when lots, locations and volumes outgrow paper.
 
 ---
@@ -164,4 +164,4 @@ Yes. Pre-printed blind count sheets, a cut-off rule, a recount threshold, reason
 
 ---
 
-*Originally published on the FactoraERP blog: [https://factoraerp.com/en/blog/stock-count-reconciliation-checklist-food-factories-kenya](https://factoraerp.com/en/blog/stock-count-reconciliation-checklist-food-factories-kenya)*
+*Originally published on the FactoraERP blog:* [*https://factoraerp.com/en/blog/stock-count-reconciliation-checklist-food-factories-kenya*](https://factoraerp.com/en/blog/stock-count-reconciliation-checklist-food-factories-kenya)
