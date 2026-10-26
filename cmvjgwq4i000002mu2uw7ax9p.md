@@ -1,5 +1,5 @@
 ---
-title: "Looking Clean Is Not Being Clean: Why Kenyan Food Factories Must Verify Sanitation, Not Just Do It"
+title: "Looking Clean Is Not Being Clean: Why Food Factories Must Verify Sanitation, Not Just Do It"
 datePublished: 2026-10-22T11:38:40.601Z
 cuid: cmvjgwq4i000002mu2uw7ax9p
 slug: cleaning-sanitation-checklist-food-factories-kenya
@@ -8,7 +8,7 @@ tags: erp, small-business, manufacturing, kenya, food-safety
 
 ---
 
-*By Isaac Muthui, CEO, Tamalaki Business Network Ltd. Originally published at [factoraerp.com](https://factoraerp.com/en/blog/cleaning-sanitation-checklist-food-factories-kenya).*
+*By Isaac Muthui, CEO, Tamalaki Business Network Ltd. Originally published at* [*factoraerp.com*](https://factoraerp.com/en/blog/cleaning-sanitation-checklist-food-factories-kenya)*.*
 
 Every food factory cleans. The night shift hoses the floor, someone scrubs the mixing tank, the pasteuriser runs its wash cycle, and by morning the stainless steel shines.
 
@@ -44,7 +44,7 @@ That is the gap this checklist closes: from "we clean" to "we can show that this
 
 ## The 8-step cleaning and sanitation checklist
 
-### 1. Build a master sanitation schedule
+### 1\. Build a master sanitation schedule
 
 - List every area and item that must be cleaned: each room or production area, each piece of equipment, food contact surfaces, non-contact surfaces, overhead structures, walls, floors, drains and gullies, cold rooms, vehicles and tankers, and the outside of the plant. EAS 39 asks for a programme for each room or area and for the exterior.
 - For each item, record the frequency (after each batch, each shift, daily, weekly, monthly), the method (manual, foam, soak tank, CIP), and who is responsible.
@@ -52,14 +52,14 @@ That is the gap this checklist closes: from "we clean" to "we can show that this
 - Treat daily as the default for plant and equipment, as EAS 39 does, unless you have evidence that a longer interval is safe.
 - Put deep cleans into your [preventive maintenance](https://factoraerp.com/en/blog/preventive-maintenance-basics-food-agro-factories-kenya) calendar.
 
-### 2. Write a sanitation standard operating procedure (SSOP) for each item
+### 2\. Write a sanitation standard operating procedure (SSOP) for each item
 
 - For each item on the schedule, write a short, step-by-step procedure: what to dismantle, the chemical, the concentration, the water temperature, the contact time, the rinse, the disinfection step, the final rinse if the disinfectant label requires one, how to dry, and how to reassemble.
 - Include lock-out of moving parts and chemical protection. Keep it short, in your team's language, with photos, posted where the cleaning happens.
 - Get the chemical supplier to confirm concentrations and contact times in writing.
 - For CIP circuits, write the cycle itself: pre-rinse, caustic wash, intermediate rinse, acid wash where used, disinfection and final rinse, with a target concentration, temperature, time and flow for each step.
 
-### 3. Control cleaning chemicals
+### 3\. Control cleaning chemicals
 
 - Keep an approved list of cleaning and disinfection chemicals, suitable for food contact surfaces where they will touch them, with safety data sheets on file.
 - Store them in a separate, locked, labelled area away from food, ingredients and packaging, in their original or clearly labelled containers. EAS 39 and Codex both ask for separate, clearly identified storage, and the Food Hygiene Regulations limit toxic materials in the plant to those actually needed.
@@ -67,14 +67,14 @@ That is the gap this checklist closes: from "we clean" to "we can show that this
 - Provide gloves, goggles or face shields, and an eye-wash point near where chemicals are mixed or dispensed, as EAS 39 sets out.
 - Check label, batch and expiry at intake; our [supplier intake checklist](https://factoraerp.com/en/blog/supplier-intake-checklist-food-manufacturers-kenya) works for chemicals too.
 
-### 4. Control cleaning tools and zones
+### 4\. Control cleaning tools and zones
 
 - Colour-code brushes, squeegees, buckets and cloths by zone: one colour for food contact surfaces, another for floors, another for drains and toilets, and a separate set for raw and cooked or high-care areas where you have them. Codex asks for separate, suitably designated cleaning equipment for different hygiene zones.
 - Never use floor brushes on equipment. EAS 39 says so directly and notes that brushes can carry *Listeria* from footwear onto the plant.
 - Use non-wooden brushes with nylon bristles that are coloured so a lost bristle is easy to see. Hang them bristles down to dry, and replace them when worn.
 - Clean the cleaning equipment. A dirty mop spreads contamination instead of removing it.
 
-### 5. Clean in the right order, and record the parameters that matter
+### 5\. Clean in the right order, and record the parameters that matter
 
 - Follow a fixed order: dry clean and remove gross debris; pre-rinse; apply detergent and scrub or circulate; rinse; disinfect for the required contact time; final rinse where the label requires it; dry. Codex sets out this sequence for wet cleaning.
 - Work top to bottom and from clean areas towards drains. Use high-pressure hoses early, keep spray away from surfaces already cleaned, and do not wash floors next to open product or exposed lines.
@@ -82,21 +82,21 @@ That is the gap this checklist closes: from "we clean" to "we can show that this
 - Record what proves the clean was done properly, not just that it happened: for manual cleans, the chemical, the measured concentration, the time and who did it; for CIP, each step's concentration, temperature and duration, and, where you can, the final rinse conductivity or pH to show no chemical is left behind. These are the parameters Codex lists for monitoring.
 - Allow enough time. A crew given half the time a job needs will cut steps, and the sheet will still say "done".
 
-### 6. Inspect before production and release the line
+### 6\. Inspect before production and release the line
 
 - Before any production starts, a person other than the cleaner, such as the shift supervisor or a QA officer, inspects the line against a short pre-operational checklist: no visible residue on food contact surfaces, no standing water where the product is dry, guards and parts reassembled correctly, no tools or cloths left behind, chemicals removed, and drains clear.
 - Use a torch: under belts, inside nozzles, behind guards, in gaskets and dead legs. Where a disinfectant must be rinsed off, confirm it with a pH or residue strip.
 - If the line fails, it is re-cleaned and re-inspected. Production does not start until the line is released and signed. It is the same discipline as [line clearance](https://factoraerp.com/en/blog/line-clearance-checklist-food-factories-kenya), often done in the same walk.
 - Record the release time, so "was the line released before this batch?" takes seconds to answer.
 
-### 7. Verify that cleaning works, and trend the results
+### 7\. Verify that cleaning works, and trend the results
 
 - Choose verification methods that fit your risk and budget: rapid hygiene swabs (ATP or protein tests) on food contact surfaces after cleaning, [allergen](https://factoraerp.com/en/blog/allergen-control-checklist-food-factories-kenya) swabs after changeovers from allergen products, microbiological swabs for indicator organisms sent to a laboratory, and analysis of final rinse water from CIP circuits. EAS 39 names rinse water analysis and surface swabbing; Codex names protein, allergen and indicator-organism testing.
 - Write a sampling plan (surfaces, frequency, pass criteria) and rotate sites so hard-to-clean spots get tested. Include drains and floors near open product; EAS 39 (4.3.4) asks for environmental sampling matched to risk.
 - Rinse water must be fit for use (see our [water quality checklist](https://factoraerp.com/en/blog/water-quality-checklist-food-factories-kenya)), and CIP thermometers and conductivity meters need [calibration](https://factoraerp.com/en/blog/calibration-checklist-food-factories-kenya).
 - Trend the results by line, by surface and by shift. One failed swab is an event. The same filler nozzle failing every few weeks is a design, procedure or training problem.
 
-### 8. When cleaning fails, act on the product, then fix the cause
+### 8\. When cleaning fails, act on the product, then fix the cause
 
 - If a pre-operational inspection fails, re-clean and re-inspect before production. If a swab result, a rinse water result or a CIP record shows that a clean was not effective after production has already run, identify every batch produced on that line since the last verified good clean.
 - Put those batches on [QA hold](https://factoraerp.com/en/blog/qa-hold-checklist-before-batch-leaves-warehouse-kenya) until QA assesses them. If product has already been dispatched, you need to find it quickly, which is what a [mock recall](https://factoraerp.com/en/blog/how-to-run-a-mock-recall-food-traceability-kenya) tests.
@@ -123,26 +123,26 @@ FactoraERP tracks production batches and lots, stock status including QA holds, 
 
 ## Free download: eTIMS readiness checklist for factories
 
-Quality records, stock records and invoices increasingly have to tell the same story for Kenyan manufacturers, and a batch written off after a failed clean touches all three. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at [https://isaacmuthui.substack.com](https://isaacmuthui.substack.com). You will get practical operations notes for food and agro manufacturers. No spam; unsubscribe anytime. For background, see our guide to [eTIMS for food and agro manufacturers](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya).
+Quality records, stock records and invoices increasingly have to tell the same story for Kenyan manufacturers, and a batch written off after a failed clean touches all three. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at <https://isaacmuthui.substack.com>. You will get practical operations notes for food and agro manufacturers. No spam; unsubscribe anytime. For background, see our guide to [eTIMS for food and agro manufacturers](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya).
 
 ## FAQ
 
-**What should a cleaning and sanitation checklist for a food factory include?**  
+**What should a cleaning and sanitation checklist for a food factory include?**\
 A master sanitation schedule covering every area and item, a written sanitation standard operating procedure (SSOP) for each, control of cleaning chemicals and tools, a fixed cleaning sequence with recorded parameters such as concentration and temperature, a pre-operational inspection and line release before production, verification by swabs or rinse water tests, and a procedure for failed cleans that includes holding affected product and logging a non-conformance.
 
-**What is the difference between cleaning, disinfection and sanitising?**  
+**What is the difference between cleaning, disinfection and sanitising?**\
 Codex defines cleaning as removing soil, food residues, dirt, grease and other objectionable matter, and disinfection as reducing viable micro-organisms to a level that does not compromise food safety or suitability. "Sanitising" is commonly used for that step on food contact surfaces. Cleaning comes first: a disinfectant cannot work properly on soiled surfaces.
 
-**How often should food processing equipment be cleaned?**  
+**How often should food processing equipment be cleaned?**\
 EAS 39 says plant and equipment should be cleaned at least daily, or more often if needed, unless it can be shown that daily cleaning is not required. Kenya's Food Hygiene Regulations require equipment to be cleaned and sanitised before use, or on a predetermined schedule in continuous operations. Set frequencies by risk, giving food contact surfaces for ready-to-eat food the most attention.
 
-**What is an SSOP?**  
+**What is an SSOP?**\
 A sanitation standard operating procedure: a written, step-by-step instruction for cleaning one area or machine, covering dismantling, chemical, concentration, temperature, contact time, rinse, disinfection, drying, reassembly, who does it and how it is checked.
 
-**How do we verify that cleaning is effective?**  
+**How do we verify that cleaning is effective?**\
 Combine a pre-operational inspection with tests: ATP or protein swabs, allergen swabs after allergen changeovers, microbiological swabs for indicator organisms, and final rinse water analysis for CIP. Trend results by line and surface.
 
-**What records should we keep for CIP?**  
+**What records should we keep for CIP?**\
 For each cycle: the circuit or line, the date and time, each step's chemical concentration, temperature and duration, and, where possible, flow and final rinse conductivity or pH, plus who ran and checked it. These match the parameters Codex and EAS 39 name for monitoring.
 
 ---
