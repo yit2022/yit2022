@@ -1,5 +1,5 @@
 ---
-title: "Line Clearance Checklist: 8 Checks Before You Start the Next Product on a Kenyan Food Line"
+title: "Line Clearance Checklist: 8 Checks Before You Start the Next Product on a Food Line"
 seoTitle: "Line Clearance Checklist: 8 Checks for Kenyan Food Lines"
 seoDescription: "An 8-point line clearance checklist for Kenyan food factories to run at every product changeover, covering residue, labels, settings and sign-off."
 datePublished: 2026-10-15T11:33:22.629Z
@@ -10,7 +10,7 @@ tags: erp, quality-control, manufacturing, kenya, food-safety
 
 ---
 
-*This article was originally published at [https://factoraerp.com/en/blog/line-clearance-checklist-food-factories-kenya](https://factoraerp.com/en/blog/line-clearance-checklist-food-factories-kenya). Canonical URL: https://factoraerp.com/en/blog/line-clearance-checklist-food-factories-kenya*
+*This article was originally published at* [*https://factoraerp.com/en/blog/line-clearance-checklist-food-factories-kenya*](https://factoraerp.com/en/blog/line-clearance-checklist-food-factories-kenya)*. Canonical URL:* [*https://factoraerp.com/en/blog/line-clearance-checklist-food-factories-kenya*](https://factoraerp.com/en/blog/line-clearance-checklist-food-factories-kenya)
 
 *By Isaac Muthui, CEO, Tamalaki Business Network Ltd*
 
@@ -39,7 +39,7 @@ None of this replaces your HACCP plan or your own advisers. It does support a si
 
 Run these checks at every product or SKU change on a line. Some changeovers are light (same product, different pack size); some are heavy (allergen to non-allergen, flavoured to plain). Your SOP should say which checks apply to which type. The list below is the full version.
 
-### 1. Is the previous product and batch closed out?
+### 1\. Is the previous product and batch closed out?
 
 Before anything is cleaned, finish the last run:
 
@@ -49,7 +49,7 @@ Before anything is cleaned, finish the last run:
 
 If last run's WIP is still on the line when the next product starts, you have a mixing risk, not a changeover.
 
-### 2. Has food-contact equipment been cleaned and sanitised per SOP for this changeover type?
+### 2\. Has food-contact equipment been cleaned and sanitised per SOP for this changeover type?
 
 Clean to the procedure, not to habit:
 
@@ -59,7 +59,7 @@ Clean to the procedure, not to habit:
 
 A rinse that is fine between two batches of the same product may not be enough when the recipe changes.
 
-### 3. Does a visual check (and any required verification) confirm no previous product residue?
+### 3\. Does a visual check (and any required verification) confirm no previous product residue?
 
 Someone other than the person who cleaned should look:
 
@@ -67,7 +67,7 @@ Someone other than the person who cleaned should look:
 - Run any verification your plan requires for this changeover type (for example a rinse-water check or a swab test).
 - If residue is found, re-clean and re-check. Do not "start slow and let the first packs flush it out."
 
-### 4. Are only the new product's packaging, labels and coding on the line?
+### 4\. Are only the new product's packaging, labels and coding on the line?
 
 Labels and lids cause more changeover mistakes than residue:
 
@@ -77,7 +77,7 @@ Labels and lids cause more changeover mistakes than residue:
 
 A plain yoghurt in a strawberry cup is a labelling error, and in some cases an allergen error too.
 
-### 5. If the allergen profile changes, have allergens, dedicated tools and colour-coding been handled?
+### 5\. If the allergen profile changes, have allergens, dedicated tools and colour-coding been handled?
 
 Switching from a product that contains an allergen to one that does not (for example a peanut snack to a plain maize snack, or a milk-containing blend to a dairy-free one) needs extra steps:
 
@@ -86,7 +86,7 @@ Switching from a product that contains an allergen to one that does not (for exa
 - Remove any allergen-containing ingredients from the line area, not just from the hopper.
 - Schedule allergen-free products before allergen products where possible, so fewer changeovers carry this risk.
 
-### 6. Are the correct recipe/BOM version and process settings loaded for the new product?
+### 6\. Are the correct recipe/BOM version and process settings loaded for the new product?
 
 The line can be spotless and still make the wrong thing:
 
@@ -96,7 +96,7 @@ The line can be spotless and still make the wrong thing:
 
 For spice packers moving from blend A to blend B, or millers changing grades, this is where many "right line, wrong product" errors start.
 
-### 7. Are the line documents updated with who cleared it, when, and from which product to which?
+### 7\. Are the line documents updated with who cleared it, when, and from which product to which?
 
 If it is not written down, it did not happen. Record:
 
@@ -106,7 +106,7 @@ If it is not written down, it did not happen. Record:
 
 This record is what you will rely on during a [mock recall](https://factoraerp.com/en/blog/how-to-run-a-mock-recall-food-traceability-kenya) or customer complaint.
 
-### 8. Has first-off / start-up QC passed before the line runs at full speed?
+### 8\. Has first-off / start-up QC passed before the line runs at full speed?
 
 The clearance is confirmed by the first good packs, not by the signature alone:
 
@@ -134,23 +134,23 @@ FactoraERP links production orders to recipes, BOM versions, issued material lot
 
 ## Free download: eTIMS readiness checklist for factories
 
-Production records and invoices increasingly have to tell the same story for Kenyan manufacturers. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at [https://isaacmuthui.substack.com](https://isaacmuthui.substack.com). You will get practical operations notes for food and agro manufacturers. No spam, unsubscribe anytime. For background, see our guide to [eTIMS for food and agro manufacturers](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya).
+Production records and invoices increasingly have to tell the same story for Kenyan manufacturers. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at <https://isaacmuthui.substack.com>. You will get practical operations notes for food and agro manufacturers. No spam, unsubscribe anytime. For background, see our guide to [eTIMS for food and agro manufacturers](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya).
 
 ## FAQ
 
-**What is line clearance in a food factory?**  
+**What is line clearance in a food factory?**\
 It is a documented check at a product or SKU change that confirms the previous product, its WIP, residue, packaging, labels and settings have been removed from the line, and that the line is set up correctly for the next product before production starts.
 
-**Is line clearance the same as cleaning?**  
+**Is line clearance the same as cleaning?**\
 No. Cleaning is one part of it. Line clearance also covers closing out the previous batch, removing old packaging and labels, loading the right recipe and settings, recording who cleared the line, and passing start-up checks.
 
-**Who should sign off line clearance?**  
+**Who should sign off line clearance?**\
 Usually a named QA lead or shift supervisor, with authority to release the line. The person who cleaned the equipment should not be the only person who checks it.
 
-**Do I need a full clean at every changeover?**  
+**Do I need a full clean at every changeover?**\
 Not always. Many factories define changeover types, for example a light changeover between pack sizes of the same product and a full clean between different recipes or allergen profiles. Your SOP and HACCP plan should define which cleaning applies to each type.
 
-**How long should a line clearance take?**  
+**How long should a line clearance take?**\
 It depends on the line and the changeover type. The practical rule is to measure it, put that time into the production schedule, and stop treating clearance as something to squeeze in between runs.
 
 ---
