@@ -1,5 +1,5 @@
 ---
-title: "An Internal Audit That Finds Nothing Has Probably Failed: Why Kenyan Food Factories Should Audit to Find Problems, Not to Pass"
+title: "An Internal Audit That Finds Nothing Has Probably Failed: Why Food Factories Should Audit to Find Problems, Not to Pass"
 datePublished: 2026-10-26T04:50:40.906Z
 cuid: cmvos3g5a000108l60vly2p0p
 slug: internal-audit-checklist-food-factories-kenya
@@ -8,7 +8,7 @@ tags: erp, manufacturing, kenya, supply-chain, food-safety
 
 ---
 
-*By Isaac Muthui, CEO, Tamalaki Business Network Ltd. Originally published at [factoraerp.com](https://factoraerp.com/en/blog/internal-audit-checklist-food-factories-kenya).*
+*By Isaac Muthui, CEO, Tamalaki Business Network Ltd. Originally published at* [*factoraerp.com*](https://factoraerp.com/en/blog/internal-audit-checklist-food-factories-kenya)*.*
 
 Most food factories meet auditors from the outside first. A KEBS officer arrives for a permit inspection. A county public health officer walks the floor. A supermarket sends its supplier auditor. A certification body comes for an ISO 22000 or FSSC visit. In the week before each of these, the plant goes into a familiar mode: forms are filled in, files are tidied, the floor is scrubbed and everyone hopes the visit goes well.
 
@@ -36,61 +36,61 @@ The patterns are familiar. The QA manager audits the QA system they wrote and ru
 
 ## The 10-step food safety internal audit checklist
 
-### 1. Write a yearly audit programme that covers everything
+### 1\. Write a yearly audit programme that covers everything
 
 - List every area and process that matters for food safety: intake, storage, production, CCPs, cleaning, pest control, hygiene, water, allergens, labelling, dispatch, calibration, training, complaints and traceability. Each one should be audited at least once a year.
 - Audit high-risk areas more often. ISO 19011 includes a risk-based approach among its principles: CCPs, allergen changeovers and areas with past problems deserve more attention than the office filing.
 - Add extra audits after significant changes, such as a new product, new line, new supplier or a serious complaint. Codex asks for review whenever there is a significant change.
 
-### 2. Set clear criteria and scope for each audit
+### 2\. Set clear criteria and scope for each audit
 
 - Before each audit, write down what you are auditing (scope) and against what (criteria): your HACCP plan, your own procedures, EAS 39, the relevant KEBS product standard, the dairy regulations, a customer's requirements.
 - Keep the scope realistic. One area done properly in two hours is worth more than the whole factory skimmed in one.
 - Pull the relevant procedures and last audit's findings before you start, so you know what "good" looks like and what to re-check.
 
-### 3. Use auditors who do not audit their own work
+### 3\. Use auditors who do not audit their own work
 
 - Codex says verification should be carried out by someone other than the person who does the monitoring and corrective actions. ISO 19011 lists independence among its audit principles.
 - In a small plant, swap areas: the production supervisor audits stores, the stores lead audits cleaning, QA audits dispatch. Where that is not possible, bring in an outside expert for some audits.
 - Train auditors in what to look for and how to write a finding. A short internal course and a few audits alongside an experienced auditor go a long way.
 
-### 4. Go to the floor and watch the work
+### 4\. Go to the floor and watch the work
 
 - Read the records, then go and watch the activity they describe. Watch a CCP check being done. Watch a changeover clean. Watch a delivery being received. Our [HACCP CCP monitoring checklist](https://factoraerp.com/en/blog/haccp-ccp-monitoring-checklist-food-factories-kenya) explains what a good CCP record looks like.
 - Ask operators to show you, not tell you: "Show me how you check this", "Show me where you write it", "What do you do if it fails?"
 - Look for the gap between the procedure and what really happens. That gap is usually the most useful finding of the day.
 
-### 5. Test the records, not just their existence
+### 5\. Test the records, not just their existence
 
 - Pick a sample of records and check them properly: complete, signed, filled in at the time, within limits, and with a corrective action wherever a limit was missed. EAS 39 expects safety records to be inspected at least daily by a suitably qualified person and signed.
 - Watch for warning signs: identical handwriting and readings across a whole week, entries made in advance, blank fields, correction fluid.
 - Check that someone reviewed the records. The US rule's 7-working-day benchmark for reviewing monitoring and corrective action records is a useful target even where it is not required.
 
-### 6. Trace a batch end to end
+### 6\. Trace a batch end to end
 
 - Pick one finished batch and follow it backwards and forwards: raw material lots and suppliers, intake checks, production and CCP records, cleaning before the run, label and pack checks, QA release and the customers who received it.
 - This one exercise tests [supplier intake](https://factoraerp.com/en/blog/supplier-intake-checklist-food-manufacturers-kenya), [label control](https://factoraerp.com/en/blog/label-control-checklist-food-manufacturers-kenya), the [QA hold](https://factoraerp.com/en/blog/qa-hold-checklist-before-batch-leaves-warehouse-kenya) and traceability at the same time.
 - Time it. If it takes more than a few hours, run a full [mock recall](https://factoraerp.com/en/blog/how-to-run-a-mock-recall-food-traceability-kenya) and fix the gaps.
 
-### 7. Check the supporting programmes
+### 7\. Check the supporting programmes
 
 - Audit the prerequisite programmes that the HACCP plan depends on: [cleaning and sanitation](https://factoraerp.com/en/blog/cleaning-sanitation-checklist-food-factories-kenya), [pest control](https://factoraerp.com/en/blog/pest-control-checklist-food-factories-kenya), [personal hygiene](https://factoraerp.com/en/blog/personal-hygiene-staff-health-checklist-food-factories-kenya), [calibration](https://factoraerp.com/en/blog/calibration-checklist-food-factories-kenya), water, maintenance and training.
 - For each one, ask three questions: is there a procedure, is it being followed, and is it working? A pest contractor's report that says "no activity" while staff report rodents is a finding.
 - Look at trends, not just today. Codex asks for periodic review of corrective actions to spot trends.
 
-### 8. Write findings as facts, with evidence
+### 8\. Write findings as facts, with evidence
 
 - Each finding should say what the requirement is, what you saw, where and when, and why it matters. ISO 19011 describes audit findings as the result of evaluating evidence against criteria, and lists an evidence-based approach among its principles.
 - Grade findings, for example critical, major and minor, so the most serious get fixed first. A critical finding, such as a CCP not being monitored, should be escalated the same day, not saved for the report.
 - Record good practice too. ISO 19011 notes that findings can also identify opportunities for improvement or record good practices. People listen to audits that are fair.
 
-### 9. Fix the cause, with an owner and a date
+### 9\. Fix the cause, with an owner and a date
 
 - Every finding needs a root cause, a corrective action, an owner and a due date. Codex says root cause analysis should be conducted where possible. "Staff reminded" is not a root cause.
 - Ask "why" until you reach something you can change: the procedure, the training, the equipment, the layout, the schedule or the workload.
 - Link audit findings to the same corrective action system you use for [customer complaints](https://factoraerp.com/en/blog/customer-complaint-handling-checklist-food-factories-kenya) and process deviations, so nothing lives in a separate file that nobody opens.
 
-### 10. Verify the fix and review the programme
+### 10\. Verify the fix and review the programme
 
 - Close a finding only after someone has checked that the fix worked, ideally at a follow-up visit, not just because the owner said it was done. Codex asks that corrective actions be reviewed to ensure they are effective.
 - Re-check last audit's findings at the start of the next audit in the same area. A repeat finding means the first fix did not work.
@@ -101,7 +101,7 @@ The patterns are familiar. The QA manager audits the QA system they wrote and ru
 For each internal audit, the record should let a manager answer six questions without searching:
 
 | Question | What the record should show |
-|---|---|
+| --- | --- |
 | What was audited, and against what? | Area or process, scope, criteria (HACCP plan, procedures, standards, regulations) |
 | Who audited, and when? | Auditor names, date, and confirmation that they did not audit their own work |
 | What evidence was looked at? | Records sampled, activities observed, batch traced, people spoken to |
@@ -127,26 +127,26 @@ FactoraERP keeps a compliance audit register for internal, external, surveillanc
 
 ## Free download: eTIMS readiness checklist for factories
 
-Kenyan manufacturers increasingly need their operational records, stock records and invoices to tell one consistent story. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at [https://isaacmuthui.substack.com](https://isaacmuthui.substack.com). You will get practical operations notes for food and agro manufacturers. No spam; unsubscribe anytime. For background, see our guide to [eTIMS for food and agro manufacturers](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya).
+Kenyan manufacturers increasingly need their operational records, stock records and invoices to tell one consistent story. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at <https://isaacmuthui.substack.com>. You will get practical operations notes for food and agro manufacturers. No spam; unsubscribe anytime. For background, see our guide to [eTIMS for food and agro manufacturers](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya).
 
 ## FAQ
 
-**What is a food safety internal audit?**  
+**What is a food safety internal audit?**\
 An internal audit is a systematic, independent and documented check that a factory carries out on itself, or has carried out on its behalf, to see whether its food safety system meets its own procedures and the standards and regulations that apply. ISO 19011 calls internal audits first-party audits.
 
-**What should a food safety internal audit checklist include?**  
+**What should a food safety internal audit checklist include?**\
 A yearly audit programme covering all areas, clear scope and criteria, auditors who do not audit their own work, observation on the floor, testing of records, an end-to-end batch trace, checks on prerequisite programmes, findings written with evidence, corrective actions with root causes, owners and dates, and verification that fixes worked.
 
-**How often should a food factory do internal audits?**  
+**How often should a food factory do internal audits?**\
 Every food safety area should be audited at least once a year, with high-risk areas such as CCPs and allergen changeovers audited more often, and extra audits after significant changes. Codex asks for review periodically and whenever there is a significant change. Many plants find monthly audits of one or two areas easier to sustain than one large annual audit.
 
-**Who should carry out an internal audit?**  
+**Who should carry out an internal audit?**\
 Trained staff who are not responsible for the area being audited, or an outside expert. Codex says verification should be done by someone other than the person who performs the monitoring and corrective actions.
 
-**What is the difference between an internal audit and an external audit?**  
+**What is the difference between an internal audit and an external audit?**\
 An internal audit is done by or for the factory itself. External audits are done by customers (second party) or by certification bodies and regulators (third party). A good internal audit programme makes external audits less stressful, because problems have already been found and fixed.
 
-**What happens after an internal audit finding?**  
+**What happens after an internal audit finding?**\
 The finding is graded, a root cause is identified, a corrective action is assigned with an owner and a due date, and the fix is later verified as effective before the finding is closed. Repeat findings show that the first fix did not work.
 
 ---
