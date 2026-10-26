@@ -1,5 +1,5 @@
 ---
-title: "A Complaint Is Not a Customer Service Problem: Why Kenyan Food Factories Must Treat Every Complaint as a Batch Signal"
+title: "A Complaint Is Not a Customer Service Problem: Why Food Factories Must Treat Every Complaint as a Batch Signal"
 datePublished: 2026-10-19T11:57:31.742Z
 cuid: cmvf79exc000102qehdz987a6
 slug: customer-complaint-handling-checklist-food-factories-kenya
@@ -42,14 +42,10 @@ Put together, the floor rule is simple: **receive every complaint, tie it to a l
 
 Complaints usually fail inside the factory in a few ordinary ways:
 
-1.  **They arrive everywhere and get logged nowhere.** Sales reps' phones, drivers, a distributor's WhatsApp group, the Facebook page. Without one register, you cannot count them, let alone trend them.
-    
-2.  **Nobody captures the lot code.** Without the batch or lot number, best-before date and where the product was bought, the investigation starts and ends with "it must have been one of last month's batches".
-    
-3.  **The evidence disappears.** The returned pack goes into the bin, or back into stock.
-    
-4.  **The fix is a refund, not a cause.** The customer is happy, the account is saved, and the same problem comes back a month later from a different shop.
-    
+1. **They arrive everywhere and get logged nowhere.** Sales reps' phones, drivers, a distributor's WhatsApp group, the Facebook page. Without one register, you cannot count them, let alone trend them.
+2. **Nobody captures the lot code.** Without the batch or lot number, best-before date and where the product was bought, the investigation starts and ends with "it must have been one of last month's batches".
+3. **The evidence disappears.** The returned pack goes into the bin, or back into stock.
+4. **The fix is a refund, not a cause.** The customer is happy, the account is saved, and the same problem comes back a month later from a different shop.
 
 **Illustration (not real customer data):** a flour miller receives three calls in two weeks about "small black specks" in 2 kg packs from three different shops in the same town. Each call is handled by a different sales rep, each customer gets a free bale, and each rep tells the supervisor verbally. Nobody writes down a lot code. Nobody connects the three calls. If the three complaints had been logged in one register with their lot codes, the miller would have seen at once that all three came from the same two production days, and could have checked the sifter screens and the store's pest records for those days. That is a one-hour investigation instead of a slow-burning reputation problem.
 
@@ -57,102 +53,66 @@ Complaints usually fail inside the factory in a few ordinary ways:
 
 ### 1\. Make complaints easy to make, and log every one in one register
 
-*   Print a phone number (and, if you use one, a WhatsApp number or email) on the label, and make sure someone answers it. ISO 10002 stresses an open, easy-to-use process for complainants.
-    
-*   Decide that every complaint, from every channel, goes into one register: consumers, distributors, supermarkets, export buyers, and your own sales team reporting what they hear.
-    
-*   Give each complaint a number, the date and time received, who received it and through which channel.
-    
-*   Log complaints even when they seem trivial or unfair; you will need them when the trend appears.
-    
+- Print a phone number (and, if you use one, a WhatsApp number or email) on the label, and make sure someone answers it. ISO 10002 stresses an open, easy-to-use process for complainants.
+- Decide that every complaint, from every channel, goes into one register: consumers, distributors, supermarkets, export buyers, and your own sales team reporting what they hear.
+- Give each complaint a number, the date and time received, who received it and through which channel.
+- Log complaints even when they seem trivial or unfair; you will need them when the trend appears.
 
 ### 2\. Capture the product, the lot and the evidence on the first contact
 
-*   Ask for the product name and pack size, the **lot or batch code**, the best-before or expiry date, where and when it was bought, and a photo of the pack and the problem. Codex section 14.1 expects every container to be marked with the producer and the lot; this is where that marking pays off.
-    
-*   Ask for the product and any foreign object to be kept, and arrange to collect it. Store returned samples labelled, sealed and separate from saleable stock.
-    
-*   Record what happened in the customer's words, including whether anyone fell ill or had an allergic reaction.
-    
-*   Train sales reps, drivers and receptionists to ask these questions. A short script beside the phone beats a long procedure in a file.
-    
+- Ask for the product name and pack size, the **lot or batch code**, the best-before or expiry date, where and when it was bought, and a photo of the pack and the problem. Codex section 14.1 expects every container to be marked with the producer and the lot; this is where that marking pays off.
+- Ask for the product and any foreign object to be kept, and arrange to collect it. Store returned samples labelled, sealed and separate from saleable stock.
+- Record what happened in the customer's words, including whether anyone fell ill or had an allergic reaction.
+- Train sales reps, drivers and receptionists to ask these questions. A short script beside the phone beats a long procedure in a file.
 
 ### 3\. Triage within hours: is this a safety complaint?
 
-*   Sort every complaint into a category and a severity. A simple scheme works: **safety** (foreign matter, illness, suspected contamination, undeclared allergen, wrong product in pack), **legal or labelling** (wrong label, short weight, wrong date), **quality** (taste, colour, texture, consistency) and **service** (late delivery, damaged cartons, wrong invoice).
-    
-*   Define in advance which categories go straight to QA and management, and how fast. Safety complaints should never wait for the weekly meeting.
-    
-*   If the complaint suggests illness, a sharp or hard foreign object, or an undeclared allergen, treat it as a possible incident until the evidence says otherwise.
-    
-*   Record who triaged it and when.
-    
+- Sort every complaint into a category and a severity. A simple scheme works: **safety** (foreign matter, illness, suspected contamination, undeclared allergen, wrong product in pack), **legal or labelling** (wrong label, short weight, wrong date), **quality** (taste, colour, texture, consistency) and **service** (late delivery, damaged cartons, wrong invoice).
+- Define in advance which categories go straight to QA and management, and how fast. Safety complaints should never wait for the weekly meeting.
+- If the complaint suggests illness, a sharp or hard foreign object, or an undeclared allergen, treat it as a possible incident until the evidence says otherwise.
+- Record who triaged it and when.
 
 ### 4\. Link the complaint to the batch record, and decide on a hold
 
-*   Use the lot code to pull the batch record: production date and shift, line, recipe or BOM version, raw material lots used, monitoring records, line clearance, release decision and dispatch records.
-    
-*   Ask what else was made the same way: the same raw material lot, the same line and shift, the same packaging run. Codex section 13.5 expects other products produced under similar conditions to be evaluated.
-    
-*   Where the complaint is safety-related, place the remaining stock of the affected lot, and any sister lots, on a [QA hold](https://factoraerp.com/en/blog/qa-hold-checklist-before-batch-leaves-warehouse-kenya) while you investigate. Codex lists isolating affected product as part of corrective action.
-    
-*   Check where the lot went. Your [finished goods dispatch records](https://factoraerp.com/en/blog/finished-goods-dispatch-checklist-kenya) tell you which customers received it.
-    
+- Use the lot code to pull the batch record: production date and shift, line, recipe or BOM version, raw material lots used, monitoring records, line clearance, release decision and dispatch records.
+- Ask what else was made the same way: the same raw material lot, the same line and shift, the same packaging run. Codex section 13.5 expects other products produced under similar conditions to be evaluated.
+- Where the complaint is safety-related, place the remaining stock of the affected lot, and any sister lots, on a [QA hold](https://factoraerp.com/en/blog/qa-hold-checklist-before-batch-leaves-warehouse-kenya) while you investigate. Codex lists isolating affected product as part of corrective action.
+- Check where the lot went. Your [finished goods dispatch records](https://factoraerp.com/en/blog/finished-goods-dispatch-checklist-kenya) tell you which customers received it.
 
 ### 5\. Investigate with evidence, not opinions
 
-*   Examine the returned sample and compare it with your retained sample from the same lot, if you keep one.
-    
-*   Review the records for that batch: intake checks on the raw materials ([supplier intake](https://factoraerp.com/en/blog/supplier-intake-checklist-food-manufacturers-kenya)), sieve, magnet or metal detector checks, temperature and time records, [line clearance](https://factoraerp.com/en/blog/line-clearance-checklist-food-factories-kenya), [label control](https://factoraerp.com/en/blog/label-control-checklist-food-manufacturers-kenya), [pack weight checks](https://factoraerp.com/en/blog/net-quantity-pack-weight-checks-food-factories-kenya), pest control and cleaning records.
-    
-*   Consider what happened after the product left you: transport, shop storage, the customer's handling. If the cause is outside your plant, the record should say so, with evidence.
-    
-*   Send samples to an accredited laboratory where the risk calls for it, and record the results.
-    
+- Examine the returned sample and compare it with your retained sample from the same lot, if you keep one.
+- Review the records for that batch: intake checks on the raw materials ([supplier intake](https://factoraerp.com/en/blog/supplier-intake-checklist-food-manufacturers-kenya)), sieve, magnet or metal detector checks, temperature and time records, [line clearance](https://factoraerp.com/en/blog/line-clearance-checklist-food-factories-kenya), [label control](https://factoraerp.com/en/blog/label-control-checklist-food-manufacturers-kenya), [pack weight checks](https://factoraerp.com/en/blog/net-quantity-pack-weight-checks-food-factories-kenya), pest control and cleaning records.
+- Consider what happened after the product left you: transport, shop storage, the customer's handling. If the cause is outside your plant, the record should say so, with evidence.
+- Send samples to an accredited laboratory where the risk calls for it, and record the results.
 
 ### 6\. Find the root cause and fix it, then check the fix worked
 
-*   Ask "why" until you reach something you can change: a worn sifter screen, a supplier with weak controls, a missing step in a changeover, an untrained new packer, a scale nobody checks. Codex recommends root cause analysis where possible, and notes it can limit or expand the amount of product affected.
-    
-*   Separate the **immediate action** (what you did with the product and the customer) from the **corrective action** (what you changed to remove the cause) and the **preventive action** (what you changed elsewhere so it cannot happen on another line or product).
-    
-*   Name a person and a date for each action.
-    
-*   Verify that the action worked: inspect, re-test, review the next few batches, and watch for repeat complaints. In its HACCP chapter, Codex says verification should be carried out by someone other than the person responsible for monitoring and corrective actions.
-    
+- Ask "why" until you reach something you can change: a worn sifter screen, a supplier with weak controls, a missing step in a changeover, an untrained new packer, a scale nobody checks. Codex recommends root cause analysis where possible, and notes it can limit or expand the amount of product affected.
+- Separate the **immediate action** (what you did with the product and the customer) from the **corrective action** (what you changed to remove the cause) and the **preventive action** (what you changed elsewhere so it cannot happen on another line or product).
+- Name a person and a date for each action.
+- Verify that the action worked: inspect, re-test, review the next few batches, and watch for repeat complaints. In its HACCP chapter, Codex says verification should be carried out by someone other than the person responsible for monitoring and corrective actions.
 
 ### 7\. Know when a complaint becomes a withdrawal or a recall
 
-*   Write down in advance what triggers escalation: for example, a confirmed safety hazard, an undeclared allergen, illness linked to the product, or several complaints of the same kind from the same lot.
-    
-*   If unsafe food may already be with customers or consumers, act on your recall procedure. Codex section 13.5 expects rapid identification and removal from the market, and reporting to the relevant competent authority. The FAO/WHO guide lists informing consumers and notifying the competent authority among food business operators' responsibilities in a recall.
-    
-*   Test the procedure before you need it. A [mock recall](https://factoraerp.com/en/blog/how-to-run-a-mock-recall-food-traceability-kenya) tells you how long it takes to find every pack of a lot.
-    
+- Write down in advance what triggers escalation: for example, a confirmed safety hazard, an undeclared allergen, illness linked to the product, or several complaints of the same kind from the same lot.
+- If unsafe food may already be with customers or consumers, act on your recall procedure. Codex section 13.5 expects rapid identification and removal from the market, and reporting to the relevant competent authority. The FAO/WHO guide lists informing consumers and notifying the competent authority among food business operators' responsibilities in a recall.
+- Test the procedure before you need it. A [mock recall](https://factoraerp.com/en/blog/how-to-run-a-mock-recall-food-traceability-kenya) tells you how long it takes to find every pack of a lot.
 
 ### 8\. Close the loop with the customer, and review trends every month
 
-*   Go back to the person who complained. Tell them what you found and what you changed, in plain language. ISO 10002 frames this as resolving the complaint and addressing the complainant's needs and expectations.
-    
-*   Record the outcome, the date closed and whether the customer was satisfied.
-    
-*   Once a month, review the register: complaints by category, product, line, lot, supplier and customer, and how long each took to close. Codex calls for periodic review of corrective actions to identify trends; your complaint register is where those trends show first.
-    
-*   Keep the complaint file (register, evidence, investigation, lab results, actions and the customer reply) for longer than the shelf life of the product, in line with Codex section 13.4.
-    
+- Go back to the person who complained. Tell them what you found and what you changed, in plain language. ISO 10002 frames this as resolving the complaint and addressing the complainant's needs and expectations.
+- Record the outcome, the date closed and whether the customer was satisfied.
+- Once a month, review the register: complaints by category, product, line, lot, supplier and customer, and how long each took to close. Codex calls for periodic review of corrective actions to identify trends; your complaint register is where those trends show first.
+- Keep the complaint file (register, evidence, investigation, lab results, actions and the customer reply) for longer than the shelf life of the product, in line with Codex section 13.4.
 
 ## Habits that make complaint handling stick
 
-*   **No lot code, no close-out.** Every complaint carries a lot number, or a written reason why it could not be found.
-    
-*   **One register.** If it is not in the register, it did not happen.
-    
-*   **Safety first, fast.** Safety complaints reach QA the same day.
-    
-*   **The refund is not the fix.** Every complaint closes with a cause and an action, even if the action is "no fault found, evidence attached".
-    
-*   **Count them.** A monthly review turns complaints into early warning.
-    
+- **No lot code, no close-out.** Every complaint carries a lot number, or a written reason why it could not be found.
+- **One register.** If it is not in the register, it did not happen.
+- **Safety first, fast.** Safety complaints reach QA the same day.
+- **The refund is not the fix.** Every complaint closes with a cause and an action, even if the action is "no fault found, evidence attached".
+- **Count them.** A monthly review turns complaints into early warning.
 
 Complaint handling is only as good as the rest of your records: [stock count reconciliation](https://factoraerp.com/en/blog/stock-count-reconciliation-checklist-food-factories-kenya), [pest control](https://factoraerp.com/en/blog/pest-control-checklist-food-factories-kenya), [allergen control](https://factoraerp.com/en/blog/allergen-control-checklist-food-factories-kenya) and the [preventive maintenance](https://factoraerp.com/en/blog/preventive-maintenance-basics-food-agro-factories-kenya) that catches worn screens before a customer does.
 
@@ -166,23 +126,23 @@ You can try FactoraERP free for 14 days at [factoraerp.com](https://factoraerp.c
 
 ## Free download: eTIMS readiness checklist for factories
 
-Complaint records, stock records and invoices increasingly have to tell the same story for Kenyan manufacturers. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at [https://isaacmuthui.substack.com](https://isaacmuthui.substack.com). You will get practical operations notes for food and agro manufacturers. No spam; unsubscribe anytime. For background, see our guide to [eTIMS for food and agro manufacturers](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya).
+Complaint records, stock records and invoices increasingly have to tell the same story for Kenyan manufacturers. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at <https://isaacmuthui.substack.com>. You will get practical operations notes for food and agro manufacturers. No spam; unsubscribe anytime. For background, see our guide to [eTIMS for food and agro manufacturers](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya).
 
 ## FAQ
 
-**What should a customer complaint handling checklist for a food factory include?**  
+**What should a customer complaint handling checklist for a food factory include?**\
 One register for every channel; lot code and evidence captured on first contact; triage by severity; a link to the batch record with a hold decision; an evidence-based investigation; root cause and corrective action with an owner and date; triggers for withdrawal or recall; a reply to the customer; a monthly trend review; and records kept beyond shelf life.
 
-**Is complaint handling a legal requirement for food manufacturers in Kenya?**  
+**Is complaint handling a legal requirement for food manufacturers in Kenya?**\
 The Food, Drugs and Chemical Substances Act (Cap. 254) makes it an offence to sell food that is unfit, contains foreign matter, is adulterated or is misleadingly labelled, and many complaints point to exactly those problems. Codex hygiene guidance expects corrective action, root cause analysis and recall procedures, and some sectors, such as dairy, have their own traceability and recall regulations. Check the specific requirements that apply to your licence with your county public health office, KEBS and any sector regulator.
 
-**When should a customer complaint trigger a product hold or recall?**  
+**When should a customer complaint trigger a product hold or recall?**\
 Put a hold on the affected lot and similar lots when a complaint suggests a safety problem: foreign matter, illness, contamination or an undeclared allergen. Move to withdrawal or recall when your investigation shows that unsafe food may be on the market, following your recall procedure and reporting to the relevant competent authority, as Codex section 13.5 describes.
 
-**Do we need ISO 10002 certification to handle complaints properly?**  
+**Do we need ISO 10002 certification to handle complaints properly?**\
 No. ISO 10002:2018 gives guidelines for complaints handling, including an annex for small businesses. You can borrow its structure (an accessible process, resolution, analysis and review) without any certificate.
 
-* * *
+---
 
 *Isaac Muthui, CEO, Tamalaki Business Network Ltd*
 
