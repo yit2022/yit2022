@@ -3,10 +3,11 @@ title: "Don't Wait for 31 December: Why Kenyan Food Factories Should Start the Y
 datePublished: 2026-11-07T04:37:10.400Z
 cuid: cmw5wwasc000007jj1st4bilz
 slug: year-end-stock-take-checklist-food-processors-kenya
+canonical: https://factoraerp.com/en/blog/year-end-stock-take-checklist-food-processors-kenya
 
 ---
 
-*By Isaac Muthui, CEO, Tamalaki Business Network Ltd. Originally published at [factoraerp.com](https://factoraerp.com/en/blog/year-end-stock-take-checklist-food-processors-kenya).*
+*By Isaac Muthui, CEO, Tamalaki Business Network Ltd. Originally published at* [*factoraerp.com*](https://factoraerp.com/en/blog/year-end-stock-take-checklist-food-processors-kenya)*.*
 
 Year-end stocktake in a food or agro factory is not a bigger version of last Friday's spot count. It is the physical and documentary moment that locks the opening stock you will defend for the next twelve months — to your board, your auditor, your buyer and, increasingly, to electronic invoicing and stock records that must tell one story.
 
@@ -40,50 +41,50 @@ None of that survives a world in which stock movements and electronic invoices a
 
 ### Plan and freeze (start in November)
 
-**1. Publish the year-end stocktake plan in November.**  
+**1\. Publish the year-end stocktake plan in November.**\
 Write the freeze window, count dates by warehouse and cold room, team leads, observer or auditor attendance, cut-off rules for receipts and dispatches, and the date opening balances will be locked. Brief stores, production, QA, dispatch and finance. A plan that only exists in someone's head is how the 31st becomes a scramble.
 
-**2. Announce a production and movement freeze for the count window.**  
+**2\. Announce a production and movement freeze for the count window.**\
 Decide which lines stop, which can finish work-in-progress already in process, and which receipts or dispatches are blocked until after the count. Tell suppliers and logistics partners where needed. A year-end count against a moving warehouse invents variances that January will inherit.
 
-**3. Post every open slip before anyone counts.**  
+**3\. Post every open slip before anyone counts.**\
 GRNs, production issues and outputs, transfers, delivery notes, credit notes and returns that belong to the closing year must be in the system before the count starts. Use the same discipline as in our [stock count reconciliation checklist](https://factoraerp.com/en/blog/stock-count-reconciliation-checklist-food-factories-kenya) and [supplier intake checklist](https://factoraerp.com/en/blog/supplier-intake-checklist-food-manufacturers-kenya). Incomplete ledgers invent year-end "losses".
 
 ### Count everything that is yours — and everything that affects yours
 
-**4. Count raw materials and packaging by lot and location.**  
+**4\. Count raw materials and packaging by lot and location.**\
 Blind counts where practical. Partial bags, open drums, returned packaging and near-expiry lots get their own lines. Confirm units of measure before you chase a variance. FEFO and expiry write-offs at year-end belong here: see [FEFO and batch expiry tracking](https://factoraerp.com/en/blog/reduce-expiry-spoilage-losses-fefo-batch-expiry-tracking).
 
-**5. Count work-in-progress with a status, not a guess.**  
+**5\. Count work-in-progress with a status, not a guess.**\
 List every open tank, silo, line, vat or pallet of WIP at the freeze: product, batch or order, quantity, stage and owner. Decide whether each line is finished into the closing year, carried as WIP into January, or written off with approval. WIP with no status becomes opening stock nobody can defend.
 
-**6. Count finished goods separately from blocked stock.**  
+**6\. Count finished goods separately from blocked stock.**\
 Sellable FG is one figure. Stock on hold, in quarantine, in rework, in the returns bay or awaiting disposal is another. Record status on the sheet, as in our [QA hold checklist](https://factoraerp.com/en/blog/qa-hold-checklist-before-batch-leaves-warehouse-kenya). Held pallets counted as free stock are how January's available-to-promise lies.
 
-**7. Include third-party, consignment and co-packer stock.**  
+**7\. Include third-party, consignment and co-packer stock.**\
 Stock at a co-packer, bonded store, distributor warehouse or customer site that is still yours needs a count confirmation — preferably with the third party's signed sheet or a joint count. Guessing from last month's email is not a year-end figure.
 
-**8. Include in-transit stock with named sender and receiver.**  
+**8\. Include in-transit stock with named sender and receiver.**\
 Trucks, containers and inter-branch transfers that left before the freeze and have not yet been received need a line: document number, contents, quantity, sender, receiver and expected arrival. People Daily's multi-branch point applies at year-end too: goods that left one store must not vanish from both sites' closing and opening balances. Tie dispatch evidence to the same discipline as our [finished goods dispatch checklist](https://factoraerp.com/en/blog/finished-goods-dispatch-checklist-kenya).
 
 ### Observe, reconcile, align and lock
 
-**9. Have an auditor, external observer or independent internal observer present.**  
+**9\. Have an auditor, external observer or independent internal observer present.**\
 Year-end counts that only the usual store team sees are harder to defend. Note who observed, which locations they covered and any exceptions they recorded. If your statutory auditor attends, treat their presence as part of the pack, not a courtesy visit.
 
-**10. Reconcile variances only with named approval — then lock the year-end adjustment list.**  
+**10\. Reconcile variances only with named approval — then lock the year-end adjustment list.**\
 Every difference carries item, lot, location, system quantity, counted quantity, difference, value, reason code and approver. The counter does not approve their own write-off. "Year-end adj" is not a reason. KRA's stock-management notice expects returns, adjustments and disposals to be recorded. Run the recount and investigation steps from the [stock count reconciliation checklist](https://factoraerp.com/en/blog/stock-count-reconciliation-checklist-food-factories-kenya) before anyone posts.
 
-**11. Align year-end stock with eTIMS invoices and stock records.**  
+**11\. Align year-end stock with eTIMS invoices and stock records.**\
 Confirm that invoices and credit notes for the closing year were transmitted as required, that quantities match what left the warehouse, and that your inventory ledger can support opening and closing stock by item — the same objects The Star noted already exist in eTIMS architecture. Document any legitimate year-end variances (wastage, by-products, samples, damage) with the same reason codes KAM has been asking KRA to clarify. See our [eTIMS guide](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya).
 
-**12. Assemble the year-end pack, lock opening balances for the new year, and retain the file.**  
+**12\. Assemble the year-end pack, lock opening balances for the new year, and retain the file.**\
 File the November plan, freeze notice, posted-transaction list, count and recount sheets, WIP and hold registers, third-party confirmations, in-transit register, observer notes, approved adjustment list, eTIMS/invoice match summary, and a sign-off page from operations and finance. Load January opening balances only from that signed closing stock — not from a parallel spreadsheet. Plan to keep the pack at least five years under section 23 of the Tax Procedures Act, and confirm longer food-safety retention with your quality lead (EAS 39 clause 14: records of actions to assure safety kept for a suitable period).
 
 ## A simple year-end stocktake file
 
 | Section | What to record |
-|---|---|
+| --- | --- |
 | November plan | Freeze window, count dates, teams, observer, lock date for opening balances |
 | Freeze notice | Lines stopped / WIP finish rules; receipt and dispatch cut-off |
 | Posting completeness | Open GRNs, issues, outputs, transfers, dispatches posted before count |
@@ -113,29 +114,29 @@ FactoraERP keeps stock by item, lot, location and status, and records receipts, 
 
 ## Free download: eTIMS readiness checklist for factories
 
-Kenyan manufacturers increasingly need their operational records, stock records and invoices to tell one consistent story — especially at the year boundary. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at [https://isaacmuthui.substack.com](https://isaacmuthui.substack.com). You will get practical operations notes for food and agro manufacturers. No spam; unsubscribe anytime. For background, see our guide to [eTIMS for food and agro manufacturers](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya).
+Kenyan manufacturers increasingly need their operational records, stock records and invoices to tell one consistent story — especially at the year boundary. If you want a free **eTIMS readiness checklist for factories**, sign up for the FactoraERP Insights newsletter at <https://isaacmuthui.substack.com>. You will get practical operations notes for food and agro manufacturers. No spam; unsubscribe anytime. For background, see our guide to [eTIMS for food and agro manufacturers](https://factoraerp.com/en/blog/etims-for-food-agro-manufacturers-kenya).
 
 ## FAQ
 
-**What is a year-end stocktake in a food factory?**  
+**What is a year-end stocktake in a food factory?**\
 It is the annual physical and documentary count that locks closing stock for the year and opening stock for the next: freeze, counts of raw materials, WIP and finished goods, third-party and in-transit stock, observer presence, approved variances, eTIMS/invoice alignment and a signed pack.
 
-**How is this different from a routine stock count or month-end close?**  
+**How is this different from a routine stock count or month-end close?**\
 A routine stock count compares physical quantities with the system and posts approved variances. Month-end close covers the full period (cut-off, production, yields, purchases, sales, accruals). Year-end stocktake focuses on the annual freeze, complete coverage (including third-party and in-transit), observer presence and locking opening balances you will defend for the next year.
 
-**When should we start planning the year-end stocktake?**  
+**When should we start planning the year-end stocktake?**\
 In November. Publish the freeze window, count dates, teams and observer arrangements early enough that production, stores and logistics can prepare — not in the last days of December.
 
-**What does KRA expect on stock records for eTIMS?**  
+**What does KRA expect on stock records for eTIMS?**\
 KRA's stock-management notice, citing section 23A(2)(b) of the Tax Procedures Act, 2015, expects accurate records of stock received, purchased, sold, transferred, returned, adjusted or otherwise disposed of, aligned with TIMS/eTIMS invoices. Consult your tax adviser for how that applies to your registration and timeline.
 
-**When is the eTIMS stock-tracking rollout expected?**  
+**When is the eTIMS stock-tracking rollout expected?**\
 Reporting in The Star on 2 October 2026 described preparations for a January 2027 rollout, following a 7 September 2026 public notice and ongoing consultations with manufacturers. Treat dates as reported and confirm current guidance with KRA.
 
-**How long should we keep the year-end stocktake pack?**  
+**How long should we keep the year-end stocktake pack?**\
 Section 23 of the Tax Procedures Act, 2015 sets a general five-year retention period for documents required under a tax law, with exceptions. EAS 39 clause 14 expects food-safety records to be kept for a suitable period. Confirm both with your accountant and quality lead.
 
-**Can a small plant run year-end stocktake on paper?**  
+**Can a small plant run year-end stocktake on paper?**\
 Yes, if the November plan and freeze are written, slips are posted before counting, WIP and holds have registers, third-party and in-transit lines exist, adjustments have reason codes and named approvers, opening balances come only from the signed close, and the pack is filed together. Software helps when lots, locations, holds and third-party sites outgrow paper.
 
 ---
